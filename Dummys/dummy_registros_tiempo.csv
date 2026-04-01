@@ -1,0 +1,2001 @@
+empleado_num,cantidad_horas,justificacion,fecha_registro
+CD0002,2,Reunion de proyectos,2025-03-03 10:12:13.146590
+CD0001,2,Mantenimiento,2025-06-05 18:13:13.349060
+RH8901,4,Revision de inventario trimestral,2024-09-13 16:39:21.212112
+AV9029,3,Operacion de Emergencia,2024-03-11 09:29:44.422757
+V09973,3,Requerimiento del almacen,2025-04-10 13:09:36.586521
+V89890,2,Mantenimiento,2024-09-27 09:33:40.356641
+DR8901,2,Capacitacion,2024-08-03 11:10:55.934572
+CD0001,2,Reunion de proyectos,2024-11-13 17:06:58.172176
+RH8901,5,Reunion de proyectos,2024-11-28 13:38:14.625457
+DR8901,3,Capacitacion,2024-03-24 18:06:27.342389
+DR8901,2,Mantenimiento,2026-01-03 08:43:27.748622
+BE3019,2,Requerimiento de proyectos,2024-06-17 13:50:19.630026
+DR8901,1,Voluntariado,2026-04-13 12:42:19.171516
+RH8901,3,Reunion de proyectos,2025-05-27 15:41:07.512837
+V83021,2,Reunion de proyectos,2025-06-05 16:37:10.274861
+CD0001,1,Reunion de proyectos,2025-12-18 15:23:44.686146
+AV9029,4,Mantenimiento,2024-07-07 16:15:53.437411
+V89890,3,Operacion de Emergencia,2024-02-06 17:38:32.091898
+V83021,1,Requerimiento del almacen,2026-04-21 13:44:00.540188
+CD0001,1,Voluntariado,2024-08-27 11:36:16.457305
+DR8901,2,Revision de inventario trimestral,2025-04-15 14:45:21.430171
+CD0002,4,Operacion de Emergencia,2026-03-24 14:19:35.555470
+BE3019,3,Capacitacion,2025-05-02 14:38:37.505012
+RH8901,1,Requerimiento del almacen,2024-03-21 11:39:40.195423
+DR8901,1,Requerimiento del almacen,2025-02-06 13:27:52.092752
+V56718,3,Reunion de proyectos,2026-01-23 17:55:16.804651
+DR8901,3,Operacion de Emergencia,2024-03-15 08:44:41.956046
+RH8901,3,Capacitacion,2024-11-26 11:54:10.703159
+CD0001,3,Mantenimiento,2024-05-31 10:00:07.711954
+V89890,2,Requerimiento de proyectos,2025-03-17 14:59:53.146068
+V89890,3,Mantenimiento,2025-09-20 18:15:21.441041
+BE3019,1,Reunion de proyectos,2025-04-22 14:17:58.390970
+V89890,1,Requerimiento de proyectos,2024-12-06 14:12:02.360202
+V83021,5,AOG de ultimo momento,2026-04-29 08:32:24.794530
+V56718,2,Voluntariado,2024-07-31 13:56:03.524147
+V56718,2,Requerimiento del almacen,2025-01-09 13:19:20.077791
+V09973,5,Reunion de proyectos,2025-01-21 18:14:47.876688
+RH8901,5,Reunion de proyectos,2025-07-12 09:26:34.030309
+CD0002,3,Requerimiento de proyectos,2026-04-19 12:42:12.771734
+BE3019,2,Revision de inventario trimestral,2024-10-01 12:09:17.653020
+CD0001,3,Voluntariado,2026-04-30 10:31:29.143525
+V89890,2,Reunion de proyectos,2025-11-07 11:07:24.722822
+V56718,2,Capacitacion,2024-10-08 17:27:32.334183
+RH8901,5,Operacion de Emergencia,2024-10-02 08:49:13.765450
+V56718,3,Operacion de Emergencia,2025-11-05 16:11:21.714346
+V89890,3,Requerimiento del almacen,2024-06-18 13:41:34.322403
+AV9029,1,AOG de ultimo momento,2025-01-07 17:30:52.464915
+V83021,2,Mantenimiento,2024-10-18 10:58:50.626092
+DR8901,2,AOG de ultimo momento,2024-03-22 09:30:39.933927
+BE3019,2,Revision de inventario trimestral,2024-03-17 18:09:59.654916
+CD0001,4,Revision de inventario trimestral,2026-04-30 12:06:17.357611
+AV9029,4,Operacion de Emergencia,2025-02-23 15:06:32.742557
+BE3019,4,Voluntariado,2025-06-04 10:39:03.135200
+RH8901,2,Operacion de Emergencia,2024-10-08 12:14:12.370313
+V83021,2,Voluntariado,2024-07-11 16:34:48.203613
+CD0002,1,Mantenimiento,2025-07-10 08:06:04.668706
+AV9029,3,Revision de inventario trimestral,2024-03-21 16:55:36.220667
+V89890,5,AOG de ultimo momento,2024-12-24 12:42:25.184960
+V83021,4,Mantenimiento,2024-01-21 16:38:05.955242
+DR8901,4,Operacion de Emergencia,2024-12-21 18:23:30.695601
+CD0002,1,Requerimiento de proyectos,2025-11-06 08:49:13.478168
+AV9029,1,Operacion de Emergencia,2025-01-29 17:24:16.535499
+RH8901,2,Capacitacion,2025-03-25 15:48:16.990118
+V83021,3,Reunion de proyectos,2025-02-18 09:22:16.687443
+AV9029,1,Voluntariado,2025-10-19 12:17:34.466037
+DR8901,4,Operacion de Emergencia,2024-12-30 14:38:15.747452
+AV9029,1,Voluntariado,2024-11-30 18:43:46.776964
+CD0001,2,Requerimiento de proyectos,2024-06-03 13:32:25.504971
+CD0001,3,Mantenimiento,2026-01-29 15:52:06.419778
+V89890,3,Voluntariado,2025-04-05 15:42:31.864859
+V56718,2,Revision de inventario trimestral,2025-03-17 09:26:17.502671
+V09973,4,Capacitacion,2024-11-29 17:27:00.274098
+V56718,4,Mantenimiento,2024-06-26 08:28:15.652085
+CD0002,4,Requerimiento del almacen,2026-04-07 09:07:33.015050
+V56718,2,Capacitacion,2026-03-27 12:45:04.448790
+AV9029,2,Reunion de proyectos,2025-02-20 13:54:00.332665
+V09973,3,Capacitacion,2025-11-15 17:27:32.175635
+DR8901,3,Mantenimiento,2025-09-24 09:08:20.032409
+V83021,4,Requerimiento de proyectos,2025-10-23 11:55:09.009222
+DR8901,3,Voluntariado,2025-09-02 11:09:50.467663
+V09973,3,Operacion de Emergencia,2025-05-15 13:01:58.480132
+RH8901,2,Voluntariado,2024-03-01 13:21:52.129699
+DR8901,5,Requerimiento de proyectos,2024-08-07 12:34:10.829446
+V83021,4,Capacitacion,2025-08-09 16:58:53.134639
+CD0002,1,Voluntariado,2024-02-21 18:08:36.939344
+V83021,5,Reunion de proyectos,2025-05-07 16:34:57.709313
+V09973,1,Voluntariado,2025-08-18 09:58:29.792738
+BE3019,5,AOG de ultimo momento,2024-12-26 08:23:45.249821
+CD0001,2,Mantenimiento,2024-01-26 17:46:42.570196
+V83021,4,Operacion de Emergencia,2026-03-24 15:00:57.018800
+DR8901,2,Requerimiento de proyectos,2024-09-06 11:03:41.170123
+RH8901,1,Voluntariado,2025-10-12 16:40:39.584248
+BE3019,1,Requerimiento del almacen,2024-07-28 15:05:25.474844
+V56718,3,Operacion de Emergencia,2025-08-08 14:38:13.288406
+V83021,3,Requerimiento del almacen,2024-01-16 17:28:20.096506
+V09973,2,Voluntariado,2025-10-26 15:10:44.866827
+BE3019,2,Requerimiento del almacen,2025-07-20 12:44:13.199664
+V89890,2,Voluntariado,2025-01-25 10:52:56.496008
+CD0001,2,AOG de ultimo momento,2024-03-27 10:56:39.910387
+CD0002,1,Reunion de proyectos,2024-10-04 08:11:44.576776
+RH8901,1,Mantenimiento,2024-01-22 08:18:34.213886
+CD0002,1,Voluntariado,2025-04-17 14:22:39.775735
+DR8901,2,Capacitacion,2025-03-31 14:49:08.807400
+CD0001,5,Requerimiento del almacen,2025-07-26 09:34:56.675356
+DR8901,2,Operacion de Emergencia,2026-02-21 12:14:22.136266
+V09973,3,Revision de inventario trimestral,2024-04-29 11:45:00.813201
+DR8901,2,Requerimiento de proyectos,2024-04-19 09:40:51.120999
+CD0001,5,Reunion de proyectos,2024-06-19 08:00:55.790943
+V83021,3,Mantenimiento,2026-04-16 09:32:01.888089
+CD0001,5,Revision de inventario trimestral,2024-02-21 12:46:09.435864
+V89890,3,Requerimiento del almacen,2024-07-21 15:24:49.123277
+CD0001,1,Mantenimiento,2024-10-07 09:08:30.405970
+CD0002,1,Mantenimiento,2025-11-28 18:09:00.270776
+DR8901,1,Requerimiento del almacen,2024-06-15 08:03:11.706747
+V89890,2,AOG de ultimo momento,2024-08-14 13:25:42.704422
+CD0002,2,Mantenimiento,2025-03-28 15:16:55.566392
+AV9029,2,Mantenimiento,2024-09-26 15:59:23.022186
+CD0001,5,Requerimiento de proyectos,2026-04-25 14:07:29.140984
+CD0001,2,Voluntariado,2025-12-29 12:01:49.975200
+V89890,3,Reunion de proyectos,2026-01-09 09:15:30.532223
+DR8901,2,Voluntariado,2024-12-25 13:05:20.751063
+V09973,3,Mantenimiento,2024-10-25 13:07:56.500783
+DR8901,2,AOG de ultimo momento,2026-02-05 12:45:40.894091
+BE3019,3,Requerimiento del almacen,2025-08-01 18:59:19.405869
+V56718,1,Mantenimiento,2026-02-21 12:37:32.483385
+CD0001,4,Requerimiento del almacen,2025-12-10 09:03:57.079801
+CD0001,4,Voluntariado,2024-01-08 13:52:14.477329
+CD0001,1,Capacitacion,2026-04-08 08:08:46.247129
+BE3019,1,Requerimiento del almacen,2025-12-16 14:07:07.434634
+V09973,2,Operacion de Emergencia,2025-09-12 12:57:29.127624
+V56718,4,Requerimiento de proyectos,2024-11-24 15:22:01.630782
+AV9029,1,Operacion de Emergencia,2024-06-14 08:20:01.681002
+DR8901,1,AOG de ultimo momento,2026-01-29 14:38:38.574190
+V56718,1,Operacion de Emergencia,2024-03-12 16:09:51.461612
+CD0001,2,Voluntariado,2026-02-22 12:46:35.985290
+BE3019,2,AOG de ultimo momento,2024-02-16 12:51:48.628602
+V56718,2,Revision de inventario trimestral,2025-09-27 15:46:25.138044
+V89890,2,Reunion de proyectos,2025-11-23 17:34:52.701660
+V89890,5,Requerimiento del almacen,2024-06-26 08:57:07.128894
+CD0002,1,Reunion de proyectos,2024-07-31 18:10:15.711450
+BE3019,2,Revision de inventario trimestral,2024-11-06 18:37:39.073936
+CD0001,4,Voluntariado,2025-02-27 11:46:26.817848
+V89890,1,Capacitacion,2025-03-13 13:18:38.981912
+V09973,2,Requerimiento del almacen,2025-10-04 10:31:52.290794
+CD0002,5,Requerimiento de proyectos,2026-01-19 14:41:32.873547
+V56718,3,Mantenimiento,2024-04-13 09:26:05.008170
+V09973,2,Revision de inventario trimestral,2025-04-13 09:21:00.234522
+DR8901,2,Requerimiento de proyectos,2025-10-04 16:51:44.346895
+CD0001,2,Voluntariado,2024-01-18 11:48:28.857414
+CD0001,2,Voluntariado,2026-04-26 09:53:57.646382
+V09973,2,Revision de inventario trimestral,2026-03-14 08:47:52.263406
+CD0001,2,Revision de inventario trimestral,2026-01-15 17:15:45.337346
+BE3019,4,Revision de inventario trimestral,2024-07-30 08:54:21.329232
+V09973,4,Mantenimiento,2025-06-25 17:34:44.814225
+CD0001,3,Reunion de proyectos,2025-03-30 08:56:42.109388
+AV9029,1,Operacion de Emergencia,2025-05-07 12:15:34.532232
+V09973,5,Capacitacion,2026-04-30 16:09:56.899339
+V83021,1,Operacion de Emergencia,2024-05-10 15:36:00.622603
+DR8901,4,Mantenimiento,2026-02-18 14:32:00.723434
+CD0002,2,Reunion de proyectos,2024-10-21 09:11:09.032593
+AV9029,1,Requerimiento del almacen,2024-07-11 15:34:32.801088
+RH8901,5,Operacion de Emergencia,2026-02-26 14:57:13.150759
+BE3019,1,Operacion de Emergencia,2024-05-01 10:12:52.613319
+CD0002,5,Operacion de Emergencia,2025-05-25 12:35:27.652888
+CD0001,1,AOG de ultimo momento,2026-01-07 13:02:52.884850
+V09973,5,AOG de ultimo momento,2025-09-01 15:43:58.425568
+BE3019,1,Reunion de proyectos,2024-03-21 09:58:56.699483
+DR8901,2,Revision de inventario trimestral,2025-05-19 09:23:45.347925
+V56718,1,Mantenimiento,2025-08-14 10:34:00.965382
+V89890,2,Capacitacion,2025-05-27 11:29:02.944563
+CD0002,3,Requerimiento de proyectos,2026-01-15 09:50:07.339084
+DR8901,5,Operacion de Emergencia,2024-11-30 12:22:11.275448
+CD0002,2,Capacitacion,2024-07-11 15:22:58.318862
+RH8901,1,Capacitacion,2025-02-02 17:17:23.861604
+V83021,2,Operacion de Emergencia,2024-05-10 17:49:09.815945
+V89890,4,AOG de ultimo momento,2024-06-25 10:28:21.665526
+V89890,1,AOG de ultimo momento,2024-06-16 11:38:18.204776
+V56718,1,Operacion de Emergencia,2025-10-04 14:54:52.569850
+RH8901,5,Reunion de proyectos,2024-08-15 18:07:29.883225
+CD0001,1,Revision de inventario trimestral,2025-02-15 09:29:00.010927
+CD0002,5,Reunion de proyectos,2025-05-19 09:31:58.181746
+RH8901,3,Revision de inventario trimestral,2024-01-01 11:09:25.142876
+RH8901,3,Voluntariado,2025-03-03 10:08:16.154239
+CD0001,3,Requerimiento del almacen,2025-10-15 15:34:36.746167
+V89890,4,Reunion de proyectos,2025-06-02 15:30:19.996892
+AV9029,5,Operacion de Emergencia,2024-12-09 15:28:25.751896
+BE3019,4,Requerimiento del almacen,2025-06-18 15:36:20.573912
+V56718,5,Voluntariado,2024-09-20 13:40:30.526348
+RH8901,2,Revision de inventario trimestral,2025-05-08 08:48:17.387882
+V09973,3,Operacion de Emergencia,2024-08-28 17:16:01.351718
+RH8901,5,Reunion de proyectos,2024-05-24 13:35:26.028333
+V89890,5,Mantenimiento,2025-10-06 15:30:11.996959
+CD0001,2,Requerimiento de proyectos,2024-11-22 16:56:08.286784
+V56718,2,Revision de inventario trimestral,2025-07-12 11:16:43.731704
+DR8901,2,Mantenimiento,2026-03-18 17:30:16.866698
+V56718,3,Mantenimiento,2025-02-26 12:23:15.650034
+V83021,2,AOG de ultimo momento,2025-01-19 14:36:03.446800
+DR8901,4,Mantenimiento,2025-05-01 12:03:18.759363
+AV9029,3,Operacion de Emergencia,2025-09-08 13:45:56.568340
+V83021,4,AOG de ultimo momento,2024-04-13 16:33:53.242461
+V89890,4,Mantenimiento,2026-02-19 14:44:35.083453
+RH8901,1,Voluntariado,2024-01-28 12:08:16.690285
+V89890,4,Voluntariado,2024-05-14 11:53:25.965931
+AV9029,1,Reunion de proyectos,2025-11-14 09:43:35.258842
+RH8901,3,Mantenimiento,2025-11-24 10:48:00.328441
+BE3019,2,Operacion de Emergencia,2025-11-30 18:11:49.942759
+V83021,2,Revision de inventario trimestral,2025-04-05 11:04:15.345064
+CD0001,2,Reunion de proyectos,2025-11-19 18:04:23.369469
+CD0001,4,Revision de inventario trimestral,2024-03-31 14:25:33.448799
+RH8901,3,AOG de ultimo momento,2025-10-19 17:21:52.510157
+CD0001,4,Voluntariado,2024-08-31 12:45:00.059064
+AV9029,2,Requerimiento del almacen,2024-09-22 14:39:14.606207
+V89890,3,Operacion de Emergencia,2025-04-18 15:27:14.083084
+RH8901,1,Requerimiento de proyectos,2025-02-06 12:27:04.296099
+V56718,2,Revision de inventario trimestral,2025-12-03 09:18:18.861145
+DR8901,3,Mantenimiento,2024-03-07 14:44:46.257927
+V56718,5,Requerimiento del almacen,2025-06-20 08:22:25.485718
+V83021,5,Requerimiento de proyectos,2025-03-09 16:09:52.011037
+V89890,1,Requerimiento del almacen,2025-09-08 17:14:51.613535
+V89890,3,Mantenimiento,2025-05-30 16:21:18.850886
+V56718,2,Revision de inventario trimestral,2024-09-20 08:02:34.163970
+V83021,2,Revision de inventario trimestral,2024-09-10 14:23:06.204653
+CD0001,3,Operacion de Emergencia,2025-03-23 18:06:58.916768
+V83021,2,Revision de inventario trimestral,2024-06-13 14:55:05.040560
+DR8901,2,Mantenimiento,2025-10-22 18:29:21.300344
+V09973,1,Capacitacion,2025-03-26 17:18:50.041120
+V09973,3,Requerimiento de proyectos,2026-02-21 11:16:04.902725
+CD0001,1,Capacitacion,2026-03-24 08:22:17.648016
+V83021,4,AOG de ultimo momento,2025-06-20 10:50:02.469433
+CD0002,5,Requerimiento del almacen,2024-10-08 10:38:10.813724
+CD0002,2,Reunion de proyectos,2026-02-22 17:43:23.946524
+V09973,1,Capacitacion,2025-03-07 18:19:25.771498
+V83021,2,AOG de ultimo momento,2024-03-13 13:29:07.006280
+V89890,1,AOG de ultimo momento,2024-02-28 12:19:10.190880
+AV9029,2,Revision de inventario trimestral,2026-04-02 16:47:16.658241
+BE3019,3,Capacitacion,2025-06-02 15:31:28.706985
+DR8901,4,Capacitacion,2024-08-22 14:51:33.797184
+BE3019,3,AOG de ultimo momento,2024-07-05 18:46:19.866503
+RH8901,5,Capacitacion,2025-03-22 17:23:54.496745
+V83021,4,Revision de inventario trimestral,2026-02-05 18:18:24.249439
+V83021,4,Operacion de Emergencia,2024-10-14 09:06:40.297544
+V83021,4,Requerimiento del almacen,2025-08-31 17:33:04.413332
+BE3019,1,Operacion de Emergencia,2024-05-08 09:06:23.953880
+AV9029,3,Capacitacion,2024-08-09 13:35:55.904838
+BE3019,2,Operacion de Emergencia,2025-04-02 10:00:44.148109
+V09973,2,Voluntariado,2024-11-15 12:31:04.527283
+V09973,5,Revision de inventario trimestral,2025-08-07 11:13:00.497882
+BE3019,3,AOG de ultimo momento,2025-11-30 10:27:36.513355
+AV9029,1,Reunion de proyectos,2025-12-06 09:27:47.932869
+RH8901,5,Capacitacion,2024-06-21 08:47:52.258873
+V09973,2,Voluntariado,2025-10-24 17:48:47.998454
+RH8901,2,Capacitacion,2024-08-06 08:46:15.238660
+DR8901,3,Requerimiento del almacen,2026-02-02 15:26:00.374240
+DR8901,1,Operacion de Emergencia,2024-02-07 15:59:47.216402
+RH8901,4,Revision de inventario trimestral,2024-03-31 18:07:19.391705
+V89890,2,Requerimiento del almacen,2025-11-26 14:19:21.648763
+CD0001,2,Mantenimiento,2025-12-08 09:37:43.211686
+V89890,3,Capacitacion,2024-07-07 11:41:00.180394
+RH8901,3,Revision de inventario trimestral,2024-10-27 08:32:01.594441
+AV9029,2,Mantenimiento,2025-12-03 09:35:14.438936
+BE3019,4,Requerimiento del almacen,2025-04-01 11:36:27.779817
+V83021,2,Mantenimiento,2026-03-15 13:35:14.798476
+V83021,2,Mantenimiento,2025-04-21 09:39:43.276596
+BE3019,3,Reunion de proyectos,2024-12-10 15:48:02.913594
+V89890,2,Mantenimiento,2024-01-05 12:21:14.422496
+DR8901,5,Requerimiento del almacen,2024-11-02 17:08:26.907121
+V56718,1,Capacitacion,2026-02-24 13:31:41.988177
+BE3019,4,Requerimiento del almacen,2024-03-20 16:04:05.761809
+V83021,2,AOG de ultimo momento,2024-08-07 17:40:25.922316
+V89890,4,Requerimiento del almacen,2025-12-16 18:11:08.057505
+BE3019,1,Requerimiento de proyectos,2024-10-23 15:47:28.236997
+CD0001,5,Mantenimiento,2024-10-24 16:40:52.722389
+BE3019,1,Voluntariado,2024-05-30 16:52:13.957881
+V83021,3,Requerimiento del almacen,2024-12-09 17:42:50.955642
+DR8901,5,Revision de inventario trimestral,2025-03-15 09:36:44.443311
+CD0001,4,Reunion de proyectos,2025-12-27 11:24:31.500341
+BE3019,2,Requerimiento del almacen,2025-04-24 08:13:48.287814
+BE3019,4,Requerimiento de proyectos,2024-06-04 18:58:27.335283
+RH8901,4,Capacitacion,2025-04-23 13:17:13.662275
+V56718,1,Mantenimiento,2026-04-17 14:53:17.649930
+V09973,2,AOG de ultimo momento,2025-01-23 16:23:59.967804
+AV9029,3,AOG de ultimo momento,2024-07-01 14:40:21.781139
+V09973,2,Reunion de proyectos,2026-04-08 14:13:38.928224
+AV9029,3,Voluntariado,2024-11-25 13:13:49.637199
+V89890,2,Reunion de proyectos,2024-07-25 16:39:23.681973
+DR8901,3,Reunion de proyectos,2024-11-26 15:16:46.717158
+DR8901,1,Mantenimiento,2024-09-21 08:37:29.648364
+V56718,2,Reunion de proyectos,2026-02-10 17:34:57.646429
+DR8901,3,Requerimiento de proyectos,2024-08-05 12:30:12.554459
+RH8901,5,Capacitacion,2024-10-09 10:43:12.447842
+CD0002,1,Capacitacion,2026-02-27 18:03:18.279640
+V89890,3,Mantenimiento,2024-03-07 17:10:22.996816
+CD0001,2,Reunion de proyectos,2024-07-31 15:41:17.178920
+RH8901,2,AOG de ultimo momento,2024-03-24 18:44:29.373888
+V89890,3,Voluntariado,2025-09-16 14:22:00.125577
+V09973,2,Revision de inventario trimestral,2024-09-03 18:45:02.891943
+V56718,2,Revision de inventario trimestral,2024-07-26 16:59:08.259627
+DR8901,2,Capacitacion,2025-05-28 18:14:03.387759
+CD0001,3,Requerimiento de proyectos,2025-06-16 16:42:23.676659
+CD0002,4,Mantenimiento,2026-02-19 11:00:26.940222
+V83021,2,Requerimiento del almacen,2024-11-29 12:22:29.619020
+CD0001,4,Operacion de Emergencia,2024-09-26 09:27:22.988661
+CD0002,5,Voluntariado,2024-10-25 18:03:44.285668
+BE3019,1,Revision de inventario trimestral,2026-03-06 09:25:51.378034
+DR8901,4,Reunion de proyectos,2024-07-14 11:33:24.541751
+V83021,2,AOG de ultimo momento,2024-09-19 10:33:07.753257
+V56718,1,Requerimiento del almacen,2025-07-17 18:51:01.024134
+V56718,2,Revision de inventario trimestral,2025-09-02 18:23:47.966172
+V89890,1,Voluntariado,2025-06-21 17:04:36.110586
+BE3019,5,Requerimiento del almacen,2026-04-14 17:11:38.299341
+BE3019,2,Capacitacion,2025-10-26 09:12:10.303997
+RH8901,5,Requerimiento del almacen,2026-01-23 12:05:47.367399
+DR8901,2,Requerimiento de proyectos,2024-11-08 16:37:47.518892
+V89890,3,Requerimiento del almacen,2026-04-28 16:26:55.243834
+V89890,2,Voluntariado,2025-11-13 18:32:45.371443
+DR8901,5,Mantenimiento,2025-11-22 10:25:01.220902
+CD0001,3,Reunion de proyectos,2025-09-09 09:19:12.294098
+V83021,3,Mantenimiento,2025-09-16 14:00:33.006595
+V83021,3,Requerimiento de proyectos,2024-07-10 17:12:57.104184
+DR8901,1,Voluntariado,2024-06-14 09:07:08.846464
+BE3019,1,AOG de ultimo momento,2024-08-17 15:36:56.826516
+CD0001,4,AOG de ultimo momento,2024-04-23 10:52:15.542523
+CD0001,1,Reunion de proyectos,2025-02-25 14:34:22.632454
+DR8901,2,Voluntariado,2026-03-21 18:03:40.586210
+RH8901,3,Mantenimiento,2026-04-19 11:15:43.905108
+RH8901,3,AOG de ultimo momento,2026-03-10 16:53:52.910173
+DR8901,1,Voluntariado,2025-10-05 13:46:59.648354
+V09973,2,Voluntariado,2025-01-13 16:21:45.468910
+AV9029,5,Revision de inventario trimestral,2026-03-11 13:45:16.209803
+V09973,5,Mantenimiento,2024-03-23 11:54:55.245242
+V09973,1,Reunion de proyectos,2025-11-20 16:04:10.660922
+DR8901,1,AOG de ultimo momento,2024-05-05 09:17:34.524468
+CD0001,1,Capacitacion,2026-04-11 15:17:09.118172
+BE3019,5,Requerimiento de proyectos,2026-01-08 16:13:30.095657
+V56718,2,Requerimiento de proyectos,2026-01-30 17:50:29.077164
+V09973,4,Mantenimiento,2024-10-22 14:31:39.002564
+RH8901,2,Requerimiento del almacen,2025-10-07 17:01:01.285832
+V83021,4,Operacion de Emergencia,2025-03-12 16:44:33.305350
+BE3019,1,Capacitacion,2025-07-26 16:14:37.831982
+AV9029,1,Requerimiento del almacen,2025-11-02 08:44:40.712265
+CD0002,3,Operacion de Emergencia,2025-02-05 14:38:26.756849
+V09973,4,Reunion de proyectos,2024-10-24 08:47:16.532954
+RH8901,2,Operacion de Emergencia,2024-09-30 12:39:55.783926
+CD0001,2,Voluntariado,2024-08-25 15:31:30.746808
+V09973,3,Voluntariado,2026-01-08 10:12:14.000917
+CD0001,4,Revision de inventario trimestral,2024-05-28 14:21:21.671296
+DR8901,3,Operacion de Emergencia,2025-05-04 16:40:10.670851
+V89890,2,Reunion de proyectos,2024-03-10 17:36:35.976795
+CD0002,2,Requerimiento del almacen,2024-07-20 08:42:29.305546
+V83021,1,Capacitacion,2024-05-25 14:15:56.976114
+V89890,2,Requerimiento de proyectos,2025-06-10 14:49:44.152385
+V83021,1,AOG de ultimo momento,2025-08-31 16:06:42.338078
+V56718,4,Mantenimiento,2025-08-30 16:10:11.258525
+AV9029,5,Reunion de proyectos,2024-05-07 14:09:43.232865
+V09973,4,Reunion de proyectos,2025-07-23 10:47:52.224749
+AV9029,3,Requerimiento del almacen,2024-06-26 10:50:37.311813
+V89890,3,AOG de ultimo momento,2024-12-29 08:44:24.834710
+AV9029,2,AOG de ultimo momento,2024-06-09 12:22:17.583181
+V89890,3,Requerimiento del almacen,2024-02-26 09:54:21.349782
+AV9029,1,Requerimiento de proyectos,2024-11-04 09:53:35.352100
+V09973,2,Capacitacion,2024-02-16 13:32:25.452751
+V09973,4,Revision de inventario trimestral,2025-01-21 13:02:44.227449
+V83021,4,Capacitacion,2026-01-28 14:30:24.672861
+V56718,3,Reunion de proyectos,2025-05-16 09:05:58.239045
+AV9029,2,Requerimiento del almacen,2026-04-14 12:48:26.426294
+V83021,1,Requerimiento del almacen,2025-04-19 14:38:19.844110
+CD0002,3,Reunion de proyectos,2024-03-18 10:51:19.389516
+DR8901,1,Operacion de Emergencia,2024-06-26 11:32:39.417423
+V09973,5,Capacitacion,2025-02-20 17:55:28.356309
+V09973,3,Requerimiento del almacen,2025-01-07 17:06:49.729149
+V09973,2,Operacion de Emergencia,2024-06-10 12:46:54.962641
+BE3019,5,Requerimiento del almacen,2024-02-06 10:04:06.722069
+V89890,1,Revision de inventario trimestral,2025-01-09 08:01:24.262156
+V83021,3,Operacion de Emergencia,2025-12-23 10:03:11.564480
+RH8901,2,Mantenimiento,2025-02-20 13:35:39.586246
+DR8901,5,Reunion de proyectos,2025-03-19 18:34:39.214901
+RH8901,4,Revision de inventario trimestral,2026-02-12 12:15:22.827438
+V56718,1,Requerimiento de proyectos,2025-12-20 12:16:37.386457
+V56718,3,Capacitacion,2024-06-11 10:23:38.137939
+DR8901,5,Revision de inventario trimestral,2025-10-09 08:51:52.738216
+DR8901,2,Operacion de Emergencia,2025-10-06 11:19:53.630834
+DR8901,2,Revision de inventario trimestral,2025-06-04 16:11:46.829755
+CD0002,5,Operacion de Emergencia,2024-08-13 15:23:43.830092
+BE3019,4,Requerimiento del almacen,2024-12-13 16:13:06.282184
+CD0001,2,Requerimiento del almacen,2025-11-18 10:26:00.548257
+AV9029,3,Capacitacion,2025-02-03 11:00:42.498399
+RH8901,2,Requerimiento de proyectos,2025-06-05 17:26:53.059796
+V56718,2,Operacion de Emergencia,2024-09-25 10:29:57.742109
+V09973,2,Voluntariado,2024-04-15 18:27:29.868273
+V83021,1,AOG de ultimo momento,2025-09-20 14:19:45.394068
+AV9029,1,Capacitacion,2025-01-17 08:00:01.260989
+BE3019,2,Voluntariado,2025-01-10 16:14:02.117938
+V89890,3,Capacitacion,2024-03-12 18:40:55.009761
+RH8901,2,Reunion de proyectos,2024-05-02 09:57:29.149338
+CD0002,2,Revision de inventario trimestral,2024-08-12 17:20:12.002360
+AV9029,1,Operacion de Emergencia,2026-04-07 17:55:26.367514
+V83021,3,Voluntariado,2026-01-31 16:59:34.887922
+V83021,3,Mantenimiento,2025-04-15 16:23:22.656665
+V83021,5,AOG de ultimo momento,2026-01-28 09:30:20.104690
+CD0001,5,Revision de inventario trimestral,2024-02-25 16:48:45.339294
+V83021,4,Requerimiento de proyectos,2025-02-14 15:35:13.463644
+V83021,2,Mantenimiento,2024-09-26 16:08:36.969842
+CD0002,2,AOG de ultimo momento,2024-07-18 17:43:46.631444
+CD0001,4,Capacitacion,2025-06-29 15:55:18.681578
+BE3019,3,Requerimiento del almacen,2025-06-13 17:05:51.690007
+CD0002,5,Mantenimiento,2026-02-27 14:42:13.266000
+V56718,5,Voluntariado,2024-09-13 18:58:13.087728
+V56718,2,Capacitacion,2025-04-01 15:30:46.160977
+BE3019,3,Reunion de proyectos,2024-07-24 13:57:17.286980
+CD0001,2,Requerimiento de proyectos,2025-03-08 08:34:06.825060
+AV9029,2,Requerimiento de proyectos,2024-03-27 18:07:36.876576
+V83021,3,Operacion de Emergencia,2024-07-20 14:47:56.461328
+BE3019,3,AOG de ultimo momento,2024-07-12 15:57:50.672402
+DR8901,5,Revision de inventario trimestral,2025-03-25 16:39:14.223941
+RH8901,1,Reunion de proyectos,2024-11-23 14:44:58.185245
+V83021,2,Requerimiento de proyectos,2025-12-10 17:50:40.874981
+CD0002,1,AOG de ultimo momento,2025-06-04 08:12:57.167826
+AV9029,2,AOG de ultimo momento,2025-05-18 15:23:15.960467
+V83021,1,Requerimiento de proyectos,2025-07-01 17:23:59.058293
+CD0002,2,AOG de ultimo momento,2024-12-23 12:23:59.267006
+BE3019,3,Revision de inventario trimestral,2026-01-04 08:22:46.056133
+V89890,3,AOG de ultimo momento,2025-04-24 13:30:33.986288
+V09973,1,Reunion de proyectos,2025-05-11 17:28:13.542187
+CD0001,3,Requerimiento de proyectos,2024-01-29 16:57:12.914021
+BE3019,3,Mantenimiento,2024-05-11 13:54:05.053269
+V89890,1,Revision de inventario trimestral,2025-09-18 15:43:36.654934
+DR8901,3,Revision de inventario trimestral,2024-04-12 13:52:50.806285
+V89890,2,Mantenimiento,2024-12-26 12:12:45.975614
+V89890,2,Reunion de proyectos,2025-07-11 08:50:35.036392
+DR8901,1,Reunion de proyectos,2025-11-09 16:07:33.300790
+BE3019,4,Capacitacion,2025-07-03 12:23:33.888910
+V83021,3,Operacion de Emergencia,2025-12-20 09:51:26.663811
+BE3019,3,Capacitacion,2026-01-15 17:18:17.433332
+CD0001,3,Capacitacion,2025-12-03 14:36:09.479951
+V89890,5,Requerimiento del almacen,2025-09-17 17:48:51.479289
+CD0002,2,Revision de inventario trimestral,2025-07-13 08:58:47.094332
+CD0001,4,Requerimiento del almacen,2026-01-11 09:07:25.159178
+V09973,3,Requerimiento del almacen,2024-09-18 12:43:27.670130
+RH8901,3,Capacitacion,2024-10-10 11:02:15.321780
+AV9029,1,AOG de ultimo momento,2024-10-23 15:49:39.813793
+AV9029,4,AOG de ultimo momento,2024-11-27 10:14:28.546206
+AV9029,2,Operacion de Emergencia,2026-02-17 11:55:23.798900
+CD0001,3,Requerimiento del almacen,2024-12-11 13:10:20.880376
+DR8901,1,AOG de ultimo momento,2024-01-29 13:42:35.685684
+AV9029,5,Requerimiento del almacen,2024-08-24 13:56:26.328407
+BE3019,1,Mantenimiento,2024-12-13 13:59:15.552273
+AV9029,2,Capacitacion,2024-02-24 11:21:49.881531
+V83021,5,Mantenimiento,2025-09-09 16:26:33.629510
+BE3019,4,Revision de inventario trimestral,2025-02-13 09:37:13.167549
+V83021,4,Voluntariado,2024-07-03 13:18:38.869118
+CD0001,5,Revision de inventario trimestral,2024-03-05 17:20:15.233146
+CD0002,3,Requerimiento de proyectos,2024-03-31 09:34:23.600399
+V89890,3,Requerimiento de proyectos,2025-03-07 13:26:48.149192
+CD0001,2,Operacion de Emergencia,2025-02-02 08:02:37.225122
+RH8901,3,Mantenimiento,2025-08-22 17:11:15.919523
+RH8901,2,Reunion de proyectos,2025-12-19 15:14:18.148923
+AV9029,4,Operacion de Emergencia,2024-09-08 13:57:04.296315
+CD0002,2,Mantenimiento,2025-01-06 11:10:22.894361
+V83021,3,Reunion de proyectos,2025-04-10 10:15:32.172532
+V89890,3,Mantenimiento,2026-03-20 09:16:42.710835
+AV9029,3,Requerimiento del almacen,2026-04-11 09:50:22.002070
+CD0002,2,AOG de ultimo momento,2025-06-30 08:38:38.763001
+V56718,3,Revision de inventario trimestral,2025-04-10 14:19:06.919562
+V09973,3,Requerimiento del almacen,2025-01-21 17:43:27.040759
+BE3019,2,Capacitacion,2026-04-25 13:35:29.542563
+CD0002,1,Operacion de Emergencia,2024-10-24 09:53:55.957485
+BE3019,3,Requerimiento del almacen,2024-09-03 13:04:51.517820
+V89890,2,Mantenimiento,2026-03-18 14:21:17.428780
+BE3019,3,Voluntariado,2025-06-09 08:04:01.690627
+V83021,2,Capacitacion,2024-09-24 14:39:19.510178
+RH8901,5,AOG de ultimo momento,2025-05-02 08:45:07.688004
+CD0002,5,Voluntariado,2024-04-04 14:02:13.962372
+V89890,2,Requerimiento de proyectos,2024-08-27 15:55:28.446155
+RH8901,3,Requerimiento del almacen,2024-05-09 17:34:06.025460
+V89890,2,Reunion de proyectos,2025-07-15 14:13:09.004013
+V83021,2,AOG de ultimo momento,2024-05-17 12:33:10.221497
+CD0001,4,Operacion de Emergencia,2024-09-09 17:12:58.530933
+V09973,4,Mantenimiento,2026-02-17 11:29:04.190023
+V83021,3,Voluntariado,2024-11-24 12:36:03.325833
+AV9029,2,Revision de inventario trimestral,2025-01-16 17:31:10.442451
+DR8901,3,AOG de ultimo momento,2025-10-07 09:10:15.281065
+BE3019,2,Requerimiento del almacen,2024-05-09 17:51:55.759653
+V09973,2,Capacitacion,2025-01-28 13:54:56.324044
+CD0002,3,Revision de inventario trimestral,2025-05-18 09:05:12.489911
+CD0001,3,AOG de ultimo momento,2025-03-10 17:43:23.233494
+AV9029,2,Requerimiento del almacen,2024-09-14 18:03:24.895681
+V09973,2,Mantenimiento,2026-01-15 18:11:20.117304
+BE3019,2,Reunion de proyectos,2024-09-24 17:37:37.303979
+V09973,1,Requerimiento del almacen,2026-02-15 16:04:59.196531
+CD0002,1,Requerimiento del almacen,2025-09-11 11:46:24.678328
+RH8901,3,Operacion de Emergencia,2025-04-09 08:41:11.483035
+DR8901,2,Voluntariado,2024-11-06 09:41:58.465316
+AV9029,5,Operacion de Emergencia,2026-02-16 11:53:14.021836
+V56718,1,Operacion de Emergencia,2025-11-10 12:56:51.274348
+BE3019,2,Requerimiento del almacen,2025-09-07 12:04:22.662495
+V56718,2,Reunion de proyectos,2024-05-17 11:19:03.586504
+V09973,2,Revision de inventario trimestral,2024-09-22 10:45:18.630122
+V09973,4,Revision de inventario trimestral,2025-04-13 18:20:58.119604
+BE3019,2,Revision de inventario trimestral,2024-04-18 12:23:08.296932
+CD0001,3,Revision de inventario trimestral,2024-04-05 12:48:43.777864
+V89890,5,Voluntariado,2024-07-22 10:06:59.945876
+V09973,5,Capacitacion,2025-08-17 11:57:00.782806
+V09973,3,Reunion de proyectos,2024-05-02 13:05:56.417837
+V89890,2,Revision de inventario trimestral,2025-05-06 17:03:01.918737
+V89890,2,Revision de inventario trimestral,2024-02-10 17:39:22.608415
+CD0001,2,Operacion de Emergencia,2024-08-16 11:42:27.256662
+V09973,2,Mantenimiento,2024-08-13 16:47:25.542621
+RH8901,2,Capacitacion,2025-04-12 17:47:00.411568
+V56718,1,AOG de ultimo momento,2024-02-21 13:08:43.123746
+BE3019,2,Requerimiento de proyectos,2024-11-04 18:37:41.849507
+V09973,5,Mantenimiento,2024-05-19 12:28:01.324503
+CD0001,1,Reunion de proyectos,2026-03-29 11:13:48.426129
+DR8901,1,Revision de inventario trimestral,2024-01-03 09:09:17.807886
+V09973,2,Reunion de proyectos,2025-08-24 08:15:12.026486
+V09973,1,AOG de ultimo momento,2025-02-20 17:54:11.822706
+DR8901,1,AOG de ultimo momento,2025-06-16 12:21:21.269777
+RH8901,3,Requerimiento de proyectos,2024-10-27 09:07:42.767308
+CD0001,1,Requerimiento del almacen,2024-08-23 14:35:58.170039
+RH8901,3,Revision de inventario trimestral,2026-03-26 09:27:59.756437
+BE3019,1,Mantenimiento,2024-01-02 12:52:19.966930
+V89890,5,Voluntariado,2024-10-16 12:11:10.143820
+V83021,3,Requerimiento del almacen,2024-07-10 09:29:20.502233
+BE3019,4,Reunion de proyectos,2024-09-16 14:28:16.669842
+CD0002,5,Revision de inventario trimestral,2024-01-21 11:49:04.922345
+AV9029,3,Voluntariado,2025-11-16 08:24:38.857245
+CD0001,4,Reunion de proyectos,2025-08-15 14:09:32.499241
+V89890,3,Mantenimiento,2024-06-20 17:48:19.137360
+DR8901,3,Voluntariado,2024-09-27 14:44:54.962944
+V56718,2,AOG de ultimo momento,2025-03-26 16:58:16.356633
+V09973,1,Requerimiento del almacen,2025-08-27 18:26:48.721674
+V89890,2,Capacitacion,2025-09-22 17:23:36.608728
+V83021,2,Voluntariado,2025-09-07 17:30:17.116510
+V09973,3,Mantenimiento,2024-07-29 08:37:12.898676
+V83021,1,Requerimiento del almacen,2024-09-27 12:50:03.999101
+AV9029,4,Requerimiento de proyectos,2024-09-04 18:45:30.934203
+BE3019,4,Requerimiento de proyectos,2024-09-19 10:09:49.775782
+RH8901,2,Operacion de Emergencia,2024-10-29 12:12:43.685775
+V83021,1,Capacitacion,2024-12-27 12:26:30.302689
+CD0001,2,Revision de inventario trimestral,2026-01-29 12:20:44.510864
+V56718,3,Operacion de Emergencia,2025-09-04 14:17:20.439772
+AV9029,3,Reunion de proyectos,2025-08-07 13:16:10.969678
+V89890,3,Mantenimiento,2024-05-02 11:50:20.644109
+V09973,2,Capacitacion,2025-08-16 11:42:51.523770
+V83021,5,Operacion de Emergencia,2024-02-17 16:25:37.445562
+CD0002,1,Capacitacion,2025-12-28 14:59:52.984009
+V83021,4,Capacitacion,2024-03-31 12:01:59.079753
+V09973,5,Operacion de Emergencia,2025-07-21 10:25:06.398789
+V89890,2,AOG de ultimo momento,2025-04-06 13:04:17.644511
+V09973,2,Voluntariado,2024-11-23 16:27:48.269980
+CD0001,2,Revision de inventario trimestral,2024-03-29 15:12:01.144347
+BE3019,4,Revision de inventario trimestral,2025-02-17 13:42:59.241762
+BE3019,3,AOG de ultimo momento,2025-05-24 14:00:58.894291
+DR8901,4,Requerimiento de proyectos,2025-05-17 18:18:21.102788
+BE3019,2,Revision de inventario trimestral,2024-01-27 17:05:00.181276
+V09973,4,Reunion de proyectos,2025-03-14 10:08:24.404062
+AV9029,2,Mantenimiento,2024-09-17 12:12:09.934721
+RH8901,3,AOG de ultimo momento,2025-05-05 10:45:21.338426
+V83021,1,Requerimiento de proyectos,2025-10-29 10:58:29.215707
+CD0002,1,Requerimiento de proyectos,2024-06-24 12:23:42.536080
+RH8901,3,Voluntariado,2026-04-18 08:46:04.189179
+V09973,5,Revision de inventario trimestral,2026-04-16 14:19:38.755309
+V56718,2,Requerimiento del almacen,2024-02-21 12:19:05.344232
+DR8901,3,AOG de ultimo momento,2024-12-19 17:26:42.002684
+V89890,3,Requerimiento de proyectos,2026-04-09 10:11:39.963339
+BE3019,3,AOG de ultimo momento,2025-08-26 14:06:57.003426
+DR8901,2,Mantenimiento,2025-11-26 17:25:12.670566
+V09973,3,AOG de ultimo momento,2024-08-03 13:23:54.957719
+V83021,2,Requerimiento del almacen,2024-01-28 08:33:19.348089
+CD0002,2,Mantenimiento,2025-03-02 16:37:59.188496
+DR8901,3,Reunion de proyectos,2025-02-14 14:26:34.689541
+V56718,3,Operacion de Emergencia,2024-04-14 11:39:37.005733
+RH8901,2,Requerimiento del almacen,2024-04-02 18:16:48.235424
+BE3019,4,Revision de inventario trimestral,2024-02-04 13:26:38.290151
+V89890,1,Voluntariado,2025-04-03 15:14:16.932584
+CD0001,4,Mantenimiento,2026-01-31 16:26:44.911361
+V56718,2,Reunion de proyectos,2025-04-21 15:06:52.162512
+AV9029,4,Mantenimiento,2024-01-03 17:45:42.216936
+RH8901,3,Requerimiento de proyectos,2025-11-13 13:12:57.951796
+V89890,3,Revision de inventario trimestral,2024-02-10 18:30:29.564748
+V83021,3,Requerimiento de proyectos,2025-09-17 17:00:35.451582
+DR8901,2,AOG de ultimo momento,2025-08-20 17:07:30.260610
+BE3019,3,Operacion de Emergencia,2026-01-19 15:31:52.787340
+BE3019,3,Operacion de Emergencia,2024-12-04 10:20:38.223083
+DR8901,4,Reunion de proyectos,2025-08-27 17:36:21.108524
+CD0001,1,Voluntariado,2025-03-07 08:32:31.387737
+V89890,3,Operacion de Emergencia,2025-11-09 09:24:07.650661
+V09973,5,Reunion de proyectos,2024-06-03 15:13:51.095916
+V89890,3,Operacion de Emergencia,2024-05-02 11:31:01.480039
+BE3019,4,Operacion de Emergencia,2025-04-05 12:13:17.269447
+V83021,3,Requerimiento de proyectos,2024-10-17 17:46:08.126786
+AV9029,2,Requerimiento del almacen,2025-02-03 09:01:48.715633
+AV9029,1,Capacitacion,2025-03-20 10:42:05.766792
+CD0002,5,Reunion de proyectos,2026-04-07 13:29:21.487633
+AV9029,1,Operacion de Emergencia,2025-01-03 10:14:03.473070
+AV9029,1,Operacion de Emergencia,2025-09-20 14:38:44.923229
+V09973,1,Mantenimiento,2024-04-02 17:58:59.560630
+V56718,2,Requerimiento de proyectos,2024-06-01 08:01:48.018152
+V83021,2,Operacion de Emergencia,2025-10-09 18:12:05.068248
+V89890,3,AOG de ultimo momento,2024-02-13 17:25:06.975103
+V83021,2,Voluntariado,2024-11-01 16:37:25.980810
+DR8901,4,AOG de ultimo momento,2025-02-19 11:45:50.493746
+BE3019,5,Operacion de Emergencia,2025-11-10 13:48:16.903884
+RH8901,2,Requerimiento de proyectos,2026-04-12 18:02:45.072083
+V56718,2,Reunion de proyectos,2024-01-12 10:50:50.911444
+V83021,2,Revision de inventario trimestral,2025-05-15 09:01:38.518732
+RH8901,5,Capacitacion,2024-12-14 09:27:33.473214
+V56718,2,Revision de inventario trimestral,2024-07-07 08:54:01.157812
+DR8901,4,Requerimiento del almacen,2025-05-07 17:05:35.558593
+V83021,2,AOG de ultimo momento,2025-05-21 15:49:57.940058
+CD0001,2,Requerimiento de proyectos,2026-01-25 17:13:09.872681
+CD0001,2,Requerimiento del almacen,2024-11-10 13:34:08.227914
+V56718,1,Revision de inventario trimestral,2025-03-14 09:28:40.861157
+BE3019,2,Requerimiento del almacen,2024-07-09 12:09:02.588602
+RH8901,2,Reunion de proyectos,2024-08-26 09:19:07.689181
+V56718,3,Operacion de Emergencia,2026-04-10 14:49:42.807681
+V56718,2,Operacion de Emergencia,2025-04-14 10:35:08.596623
+DR8901,1,AOG de ultimo momento,2024-12-07 18:18:17.198918
+V83021,3,AOG de ultimo momento,2026-04-29 09:53:14.167906
+V89890,5,AOG de ultimo momento,2026-03-17 12:31:41.015069
+AV9029,2,Voluntariado,2025-12-19 14:30:57.714579
+V89890,1,Requerimiento del almacen,2025-03-20 08:45:59.431122
+RH8901,3,Capacitacion,2026-04-26 11:08:13.917569
+V83021,5,Revision de inventario trimestral,2025-05-09 14:45:03.961108
+DR8901,1,AOG de ultimo momento,2024-10-16 14:09:27.148918
+V56718,2,Operacion de Emergencia,2025-12-06 09:08:51.421034
+AV9029,3,Voluntariado,2024-06-06 12:27:11.667057
+V09973,2,Revision de inventario trimestral,2025-10-26 17:08:50.336530
+AV9029,2,Capacitacion,2026-03-01 11:24:12.122586
+RH8901,2,Requerimiento de proyectos,2024-11-26 16:07:26.744274
+V83021,2,Capacitacion,2025-10-25 09:11:45.348270
+CD0001,5,Mantenimiento,2026-04-25 11:45:29.836546
+V56718,2,Voluntariado,2024-12-06 17:12:34.194708
+V89890,2,Mantenimiento,2025-07-23 18:55:39.241520
+DR8901,2,Capacitacion,2024-02-22 14:35:29.906036
+CD0002,2,Requerimiento del almacen,2025-02-17 15:00:58.978040
+V89890,2,Requerimiento de proyectos,2025-02-02 12:40:03.663005
+V83021,1,Operacion de Emergencia,2026-02-25 14:18:47.413259
+V83021,3,AOG de ultimo momento,2025-03-31 09:19:54.966847
+RH8901,2,Mantenimiento,2026-03-09 09:54:56.674654
+V09973,5,Voluntariado,2024-04-08 15:04:15.829070
+V83021,4,Reunion de proyectos,2024-11-20 13:14:22.391164
+CD0002,1,Operacion de Emergencia,2024-03-10 11:39:32.473819
+V09973,1,Voluntariado,2025-12-16 08:21:37.178257
+CD0002,2,Voluntariado,2024-12-02 17:04:31.537949
+RH8901,2,Requerimiento del almacen,2026-02-20 12:44:10.777358
+CD0002,4,Reunion de proyectos,2024-10-13 15:13:56.488430
+V56718,2,Mantenimiento,2025-01-12 08:05:57.181498
+AV9029,2,Reunion de proyectos,2025-05-24 09:32:24.849129
+V09973,2,Revision de inventario trimestral,2025-09-06 15:36:40.877482
+V56718,5,AOG de ultimo momento,2025-10-09 13:50:36.817410
+DR8901,2,Voluntariado,2025-02-04 13:23:23.870783
+AV9029,4,Mantenimiento,2025-12-06 13:37:10.921763
+CD0002,4,Requerimiento del almacen,2024-12-18 18:12:43.335318
+RH8901,2,Requerimiento del almacen,2025-03-08 15:58:03.196918
+CD0001,5,AOG de ultimo momento,2025-12-04 10:28:23.234721
+V83021,5,AOG de ultimo momento,2025-01-20 11:33:53.116529
+V56718,2,Requerimiento de proyectos,2024-08-22 16:03:44.471787
+V09973,2,Mantenimiento,2024-01-14 12:40:35.250802
+V56718,3,Revision de inventario trimestral,2025-05-30 11:15:52.800685
+V56718,1,Mantenimiento,2024-11-13 13:22:08.373182
+V56718,3,Requerimiento de proyectos,2024-07-31 13:16:58.986630
+DR8901,3,Revision de inventario trimestral,2025-07-21 17:44:01.066617
+CD0002,2,Operacion de Emergencia,2024-01-17 12:45:12.149358
+V09973,2,Mantenimiento,2025-12-15 12:56:07.678106
+V83021,3,Requerimiento de proyectos,2025-11-08 17:37:44.150500
+V56718,3,Operacion de Emergencia,2025-02-08 18:03:33.104603
+DR8901,4,Mantenimiento,2024-01-02 17:48:14.394134
+V56718,1,Requerimiento de proyectos,2026-04-03 17:52:57.619813
+V09973,3,Requerimiento de proyectos,2024-11-21 10:51:48.900151
+RH8901,5,Requerimiento del almacen,2025-04-30 12:05:14.383004
+CD0002,2,Capacitacion,2025-05-17 16:10:52.882052
+CD0002,2,AOG de ultimo momento,2026-04-18 14:42:57.182943
+CD0002,1,Operacion de Emergencia,2024-03-06 11:49:55.256438
+CD0002,2,Revision de inventario trimestral,2025-09-30 09:20:37.497738
+V83021,4,Requerimiento del almacen,2025-09-09 09:23:14.432871
+CD0001,3,Mantenimiento,2025-07-20 08:17:28.832375
+V09973,3,Operacion de Emergencia,2025-02-23 11:57:39.838322
+RH8901,5,Requerimiento de proyectos,2024-10-08 16:23:31.956754
+DR8901,2,Mantenimiento,2024-10-25 14:21:52.163821
+BE3019,1,AOG de ultimo momento,2025-05-08 09:15:45.600048
+V56718,3,AOG de ultimo momento,2024-09-10 18:57:12.875325
+CD0002,2,Revision de inventario trimestral,2025-04-25 17:23:36.262083
+CD0001,2,Requerimiento del almacen,2024-08-27 17:48:05.367157
+RH8901,1,Requerimiento de proyectos,2024-09-23 08:06:04.512413
+V56718,2,Requerimiento de proyectos,2025-06-06 15:22:59.657796
+V89890,1,Reunion de proyectos,2024-12-13 11:33:30.861915
+CD0002,1,Reunion de proyectos,2024-08-25 10:42:31.797775
+AV9029,3,Revision de inventario trimestral,2025-08-22 08:57:20.285622
+V56718,2,Operacion de Emergencia,2026-02-22 17:12:33.758950
+RH8901,3,Operacion de Emergencia,2025-07-01 17:19:14.973781
+DR8901,3,Voluntariado,2024-11-27 11:48:20.073409
+V83021,3,AOG de ultimo momento,2026-02-18 09:30:33.513108
+AV9029,2,AOG de ultimo momento,2026-03-17 10:37:23.116841
+AV9029,3,Requerimiento de proyectos,2026-04-25 09:09:17.389023
+DR8901,3,AOG de ultimo momento,2025-10-19 08:08:53.071641
+V89890,5,Operacion de Emergencia,2024-10-09 12:39:23.691737
+V89890,5,Voluntariado,2024-03-02 16:41:05.082332
+DR8901,4,Revision de inventario trimestral,2024-04-16 15:51:42.041243
+AV9029,2,Voluntariado,2026-02-08 18:55:35.929660
+V89890,4,Revision de inventario trimestral,2026-01-21 12:23:02.845098
+V83021,1,Revision de inventario trimestral,2025-06-02 11:54:26.147358
+BE3019,5,Operacion de Emergencia,2025-09-29 16:20:14.995092
+V09973,1,Voluntariado,2024-02-24 11:40:24.259341
+V09973,3,Reunion de proyectos,2026-02-24 08:57:17.355369
+AV9029,2,Reunion de proyectos,2024-01-14 18:53:20.768059
+V09973,2,Mantenimiento,2024-05-01 15:26:22.534535
+V83021,3,Requerimiento de proyectos,2025-09-26 17:16:51.630798
+V83021,4,Requerimiento de proyectos,2025-02-24 12:44:24.295727
+V56718,2,Capacitacion,2025-04-16 16:24:11.642196
+AV9029,2,Voluntariado,2024-03-31 18:46:39.832823
+V83021,4,Mantenimiento,2024-06-14 09:30:57.858033
+V09973,3,Reunion de proyectos,2025-03-20 17:50:44.579531
+DR8901,2,Operacion de Emergencia,2024-06-14 17:57:40.693913
+V89890,2,Capacitacion,2025-09-23 11:41:46.541492
+DR8901,3,Mantenimiento,2025-08-29 16:25:11.307243
+BE3019,1,Requerimiento de proyectos,2025-03-20 15:07:52.964583
+V89890,1,Capacitacion,2024-06-08 11:13:04.497891
+BE3019,1,Requerimiento de proyectos,2025-01-17 16:05:28.736730
+V09973,3,Reunion de proyectos,2025-10-15 12:02:25.062075
+V89890,2,Mantenimiento,2024-04-06 14:06:12.060986
+CD0001,1,Mantenimiento,2026-03-09 14:56:39.474195
+BE3019,2,Mantenimiento,2025-11-12 18:04:23.643360
+V89890,3,Operacion de Emergencia,2024-01-12 10:42:52.399719
+BE3019,2,AOG de ultimo momento,2025-01-01 11:26:00.799286
+V83021,4,Voluntariado,2025-09-19 11:08:39.768755
+V56718,2,Reunion de proyectos,2024-12-19 09:42:54.158645
+V89890,3,Reunion de proyectos,2026-04-22 18:33:01.396327
+CD0002,1,Operacion de Emergencia,2024-02-19 14:04:55.992568
+V89890,2,AOG de ultimo momento,2026-01-21 08:58:12.045952
+BE3019,4,Operacion de Emergencia,2024-11-02 11:22:06.062848
+AV9029,5,Capacitacion,2026-03-26 14:23:46.010088
+V56718,3,Voluntariado,2025-05-22 14:08:40.657459
+CD0002,1,Revision de inventario trimestral,2024-06-23 13:16:55.631712
+BE3019,2,Voluntariado,2025-05-17 10:04:48.304801
+DR8901,2,Requerimiento del almacen,2026-04-08 12:24:57.336670
+V83021,2,Capacitacion,2026-03-23 10:55:00.954285
+DR8901,3,Reunion de proyectos,2024-02-04 15:17:30.746265
+V89890,4,Requerimiento del almacen,2024-03-26 11:23:57.966843
+V09973,2,Reunion de proyectos,2024-07-16 09:02:08.929326
+V89890,2,Voluntariado,2025-03-14 10:06:42.980621
+RH8901,3,Capacitacion,2024-09-09 17:41:28.261606
+V56718,3,Operacion de Emergencia,2025-12-04 17:34:42.290291
+BE3019,2,Voluntariado,2024-04-03 10:05:38.494696
+V83021,2,Voluntariado,2026-01-19 16:04:55.451129
+V09973,2,Requerimiento de proyectos,2025-08-12 11:08:02.114040
+AV9029,1,Requerimiento de proyectos,2024-01-24 15:31:05.210234
+V09973,4,Requerimiento de proyectos,2024-10-08 17:32:28.623465
+V56718,3,AOG de ultimo momento,2024-09-29 08:36:31.526848
+CD0001,4,Revision de inventario trimestral,2026-01-25 09:23:51.068777
+V09973,3,Voluntariado,2024-04-20 13:48:31.341668
+AV9029,3,Reunion de proyectos,2024-07-02 10:34:37.370927
+BE3019,5,Operacion de Emergencia,2025-04-01 10:51:36.377384
+RH8901,4,Requerimiento del almacen,2025-07-12 08:47:23.858400
+CD0001,2,Revision de inventario trimestral,2025-08-04 12:00:23.834453
+BE3019,2,Requerimiento de proyectos,2025-12-19 09:40:57.181631
+V83021,3,Operacion de Emergencia,2025-05-19 12:49:05.365388
+V89890,2,Reunion de proyectos,2024-02-20 17:55:24.491820
+AV9029,4,Reunion de proyectos,2024-12-15 16:31:44.866478
+V09973,2,Requerimiento del almacen,2024-11-28 13:56:21.554525
+V89890,2,Operacion de Emergencia,2024-05-13 12:34:53.630100
+V89890,5,Voluntariado,2025-08-13 16:23:56.974354
+CD0002,2,Voluntariado,2025-02-23 16:12:24.501696
+V89890,2,Reunion de proyectos,2026-01-20 10:16:29.339341
+CD0001,4,Operacion de Emergencia,2024-08-12 13:13:48.792270
+CD0001,2,Mantenimiento,2026-03-14 09:38:19.840753
+V89890,1,Voluntariado,2025-01-26 18:30:52.088406
+V83021,5,Mantenimiento,2025-01-26 16:27:08.854618
+V56718,1,Requerimiento de proyectos,2024-04-24 13:04:29.156916
+RH8901,2,Requerimiento de proyectos,2024-12-12 10:39:00.187792
+AV9029,2,Requerimiento de proyectos,2025-01-10 12:03:35.485005
+V56718,5,Capacitacion,2026-03-22 12:39:18.210932
+BE3019,3,Revision de inventario trimestral,2024-05-20 13:22:30.312789
+CD0001,5,Requerimiento de proyectos,2024-03-13 16:15:00.973648
+BE3019,4,AOG de ultimo momento,2025-04-20 10:03:54.888043
+V09973,5,Mantenimiento,2025-04-23 11:03:12.650209
+RH8901,1,Revision de inventario trimestral,2024-12-18 12:22:39.906767
+DR8901,4,AOG de ultimo momento,2025-08-05 08:18:08.696659
+V56718,3,Mantenimiento,2026-04-09 14:41:06.953999
+V56718,2,Requerimiento de proyectos,2026-03-19 16:59:42.296217
+V89890,2,AOG de ultimo momento,2024-06-21 15:49:01.909862
+V09973,2,Operacion de Emergencia,2025-11-18 09:13:43.802378
+CD0002,3,Voluntariado,2025-02-07 15:59:08.439631
+V89890,3,Mantenimiento,2025-10-11 16:51:21.463767
+V09973,5,Reunion de proyectos,2025-08-10 09:34:04.884535
+CD0002,4,Mantenimiento,2024-07-29 08:27:00.740481
+AV9029,4,AOG de ultimo momento,2025-07-02 18:13:02.296432
+DR8901,1,Requerimiento del almacen,2025-09-01 16:32:18.161925
+CD0002,2,AOG de ultimo momento,2024-12-27 09:36:35.786460
+V83021,2,Reunion de proyectos,2026-04-17 11:59:07.522385
+V83021,3,Capacitacion,2024-11-14 15:03:34.997077
+V09973,2,Requerimiento del almacen,2026-01-27 09:59:45.843309
+RH8901,5,Capacitacion,2024-08-26 13:03:55.321496
+AV9029,4,Operacion de Emergencia,2024-05-17 12:54:04.462579
+V09973,4,Mantenimiento,2025-06-25 09:38:22.451005
+BE3019,1,Requerimiento del almacen,2025-08-06 10:27:12.985690
+AV9029,4,Mantenimiento,2026-02-11 13:42:42.649215
+V56718,3,AOG de ultimo momento,2024-10-01 16:16:05.925427
+V83021,1,Mantenimiento,2026-03-18 16:27:35.076256
+RH8901,3,Operacion de Emergencia,2026-02-22 16:04:19.685008
+CD0002,1,Operacion de Emergencia,2024-01-07 14:29:54.994295
+AV9029,2,Requerimiento del almacen,2024-08-14 10:22:52.723650
+DR8901,1,Requerimiento del almacen,2025-02-28 18:52:50.807676
+RH8901,3,Operacion de Emergencia,2024-04-19 09:11:59.140941
+V09973,2,Voluntariado,2025-05-10 15:04:22.808312
+V89890,5,AOG de ultimo momento,2025-02-21 18:39:03.430762
+V56718,3,Voluntariado,2025-07-18 12:01:39.011291
+CD0002,2,Requerimiento de proyectos,2024-09-24 16:07:57.184354
+BE3019,1,Capacitacion,2024-01-08 15:17:39.438346
+V56718,2,AOG de ultimo momento,2025-09-19 13:19:58.898110
+CD0001,2,AOG de ultimo momento,2024-11-08 12:35:47.137082
+AV9029,2,Requerimiento de proyectos,2025-04-05 11:56:14.278098
+V83021,5,Requerimiento de proyectos,2024-12-09 17:57:04.699363
+V89890,1,Revision de inventario trimestral,2024-03-14 17:55:43.776522
+V83021,2,Voluntariado,2024-01-05 12:12:12.996404
+DR8901,2,Revision de inventario trimestral,2024-01-20 11:27:28.219659
+BE3019,5,Requerimiento de proyectos,2025-08-09 08:41:42.818950
+V83021,3,Voluntariado,2024-03-19 12:58:06.086294
+AV9029,3,Voluntariado,2024-03-11 09:37:39.625357
+CD0001,5,Requerimiento de proyectos,2024-09-06 08:11:32.575202
+V09973,2,Operacion de Emergencia,2024-03-04 08:06:22.492281
+AV9029,3,Requerimiento del almacen,2024-12-13 15:26:47.204301
+CD0001,2,Capacitacion,2024-05-13 11:18:59.983847
+RH8901,2,Requerimiento del almacen,2024-08-07 12:02:09.879924
+CD0001,2,Capacitacion,2026-03-20 10:46:00.302454
+CD0002,2,Requerimiento del almacen,2025-09-28 15:13:30.723279
+DR8901,2,Capacitacion,2024-01-27 15:08:22.373741
+DR8901,1,AOG de ultimo momento,2025-12-07 11:27:34.844315
+V09973,2,Revision de inventario trimestral,2024-04-04 18:21:54.540868
+AV9029,2,Voluntariado,2025-11-21 18:27:18.000070
+V89890,3,Requerimiento del almacen,2025-04-25 18:29:58.506416
+CD0002,5,Operacion de Emergencia,2024-10-25 15:07:59.987591
+BE3019,3,Voluntariado,2025-07-27 08:23:14.685368
+V09973,3,Operacion de Emergencia,2026-02-27 13:38:39.716948
+CD0002,2,AOG de ultimo momento,2026-01-23 13:10:29.063962
+V89890,3,Requerimiento del almacen,2026-01-22 17:49:56.897054
+V83021,1,Mantenimiento,2024-08-06 17:37:54.929625
+AV9029,2,Mantenimiento,2024-05-10 17:22:15.515798
+CD0002,3,AOG de ultimo momento,2025-12-13 08:05:18.394694
+DR8901,2,Requerimiento del almacen,2025-09-08 15:55:44.943050
+BE3019,2,Requerimiento del almacen,2024-05-04 13:16:08.138627
+DR8901,2,Capacitacion,2025-07-20 18:34:46.265563
+AV9029,2,AOG de ultimo momento,2024-10-07 13:06:14.025404
+DR8901,3,Requerimiento de proyectos,2025-05-19 16:36:33.253220
+CD0001,5,AOG de ultimo momento,2025-05-29 10:07:26.473294
+V89890,3,AOG de ultimo momento,2025-01-17 17:42:19.958022
+V56718,3,Operacion de Emergencia,2024-10-11 12:23:55.973721
+V09973,1,Requerimiento del almacen,2026-04-03 18:18:44.231842
+V83021,4,Operacion de Emergencia,2025-12-22 18:55:04.098170
+CD0002,3,Capacitacion,2024-09-21 14:34:12.434663
+CD0002,5,Voluntariado,2025-01-25 09:42:58.015649
+BE3019,4,Requerimiento de proyectos,2025-08-28 13:09:15.639595
+CD0002,1,Requerimiento del almacen,2026-04-06 13:11:27.529151
+CD0001,4,Reunion de proyectos,2024-04-17 10:22:15.375536
+RH8901,3,Requerimiento de proyectos,2025-07-19 14:54:55.832171
+DR8901,4,Requerimiento del almacen,2024-03-13 17:08:23.494192
+V83021,2,Reunion de proyectos,2025-07-14 14:09:47.644169
+AV9029,1,Voluntariado,2025-01-13 12:42:37.265467
+CD0001,2,Requerimiento del almacen,2025-06-20 18:41:39.030968
+BE3019,1,Requerimiento de proyectos,2025-12-05 17:14:51.320871
+V83021,2,AOG de ultimo momento,2024-10-24 08:19:46.542810
+BE3019,2,Voluntariado,2024-02-18 13:19:57.748449
+V89890,1,AOG de ultimo momento,2025-07-27 18:13:51.896228
+CD0002,3,Revision de inventario trimestral,2024-02-05 11:04:23.666460
+V56718,2,Mantenimiento,2024-03-21 10:00:16.223001
+CD0002,1,Operacion de Emergencia,2026-01-27 12:49:41.109690
+V56718,2,Revision de inventario trimestral,2025-08-17 15:58:56.926865
+CD0002,4,Reunion de proyectos,2024-08-13 15:01:17.550404
+CD0002,2,Revision de inventario trimestral,2025-01-20 17:43:49.193994
+CD0001,5,Reunion de proyectos,2025-10-06 18:08:16.935380
+V09973,3,Revision de inventario trimestral,2025-12-26 14:59:23.831784
+CD0002,3,Operacion de Emergencia,2025-12-02 16:53:01.128966
+V09973,1,AOG de ultimo momento,2026-03-14 09:35:55.730282
+RH8901,3,Requerimiento de proyectos,2026-04-10 11:14:01.543219
+DR8901,1,Voluntariado,2024-08-30 18:47:54.236177
+RH8901,3,Operacion de Emergencia,2025-07-17 11:56:07.069279
+V89890,3,Requerimiento de proyectos,2026-03-01 17:01:23.448554
+V56718,3,Operacion de Emergencia,2026-03-09 09:49:33.511543
+V89890,4,Capacitacion,2024-02-28 11:10:22.511782
+V89890,4,Voluntariado,2025-01-02 09:00:50.615083
+V56718,1,Operacion de Emergencia,2025-04-29 17:41:20.089229
+BE3019,2,Mantenimiento,2026-04-01 08:45:51.741838
+BE3019,2,Reunion de proyectos,2025-10-08 12:16:05.300493
+V89890,1,AOG de ultimo momento,2025-09-05 16:24:09.183029
+V89890,2,AOG de ultimo momento,2025-05-29 09:27:05.887900
+AV9029,3,Voluntariado,2025-01-22 13:55:03.838943
+AV9029,2,Mantenimiento,2025-03-13 09:27:50.130245
+BE3019,4,Capacitacion,2025-01-10 16:27:31.559635
+V89890,3,Mantenimiento,2025-05-11 13:55:28.019215
+V56718,2,Voluntariado,2024-10-07 18:25:56.925791
+V56718,1,Requerimiento del almacen,2024-04-04 15:05:47.649294
+CD0002,1,Capacitacion,2025-08-13 13:49:44.510527
+V56718,5,Reunion de proyectos,2025-09-04 12:37:10.090987
+V89890,5,Requerimiento del almacen,2025-04-23 12:33:36.203282
+V09973,2,Requerimiento del almacen,2025-08-29 15:09:08.406987
+V09973,5,Operacion de Emergencia,2024-07-13 18:59:34.574866
+BE3019,4,AOG de ultimo momento,2024-03-23 17:53:25.181707
+V56718,1,Revision de inventario trimestral,2025-08-16 11:38:54.836308
+V56718,2,Reunion de proyectos,2024-03-15 08:30:52.496722
+RH8901,1,Reunion de proyectos,2025-10-14 08:05:09.019755
+V56718,4,Voluntariado,2024-08-01 18:06:21.806283
+AV9029,2,AOG de ultimo momento,2024-05-07 16:58:22.339860
+V09973,2,Revision de inventario trimestral,2024-09-14 13:01:08.424779
+V09973,2,Reunion de proyectos,2026-03-24 17:21:52.925724
+V89890,4,AOG de ultimo momento,2026-03-03 09:41:36.083362
+V56718,2,Voluntariado,2025-11-22 18:48:49.755645
+V56718,1,Mantenimiento,2024-05-03 13:20:34.291105
+V83021,4,Voluntariado,2026-03-26 17:08:58.239276
+V56718,2,Mantenimiento,2025-08-09 08:13:56.132254
+V89890,2,Voluntariado,2025-06-17 16:41:46.735107
+V89890,1,Voluntariado,2024-07-09 09:46:58.956907
+V83021,3,Requerimiento del almacen,2024-11-06 09:19:17.956028
+V89890,2,Revision de inventario trimestral,2026-04-18 12:37:00.348904
+DR8901,5,Requerimiento del almacen,2026-02-07 10:14:58.229742
+V89890,3,Voluntariado,2025-06-12 16:13:46.525854
+CD0002,1,Reunion de proyectos,2024-01-24 18:57:22.064008
+DR8901,1,Voluntariado,2024-10-21 11:06:15.055647
+V83021,4,Voluntariado,2026-03-15 18:37:34.799980
+BE3019,3,Capacitacion,2026-02-04 08:44:00.263601
+V09973,2,Reunion de proyectos,2026-04-06 13:15:47.279238
+CD0002,2,Voluntariado,2025-02-27 14:03:10.438167
+CD0002,3,Mantenimiento,2025-11-24 16:22:25.044980
+CD0002,5,Requerimiento de proyectos,2025-10-20 11:24:40.717363
+V83021,2,AOG de ultimo momento,2024-09-29 13:11:51.964689
+V09973,2,Capacitacion,2025-04-19 08:40:27.814681
+DR8901,5,Reunion de proyectos,2024-03-22 17:59:19.063415
+V83021,3,Mantenimiento,2025-04-28 14:42:37.074005
+V56718,2,Reunion de proyectos,2025-08-21 15:45:13.717689
+DR8901,4,Capacitacion,2025-08-04 08:43:27.321794
+AV9029,4,Mantenimiento,2024-10-13 15:37:08.238950
+RH8901,2,Mantenimiento,2024-12-12 12:18:43.972890
+CD0001,2,Voluntariado,2024-01-10 14:49:52.561757
+CD0001,5,Requerimiento del almacen,2025-04-23 12:00:46.177454
+V89890,2,Reunion de proyectos,2026-01-25 13:45:11.360272
+AV9029,1,Operacion de Emergencia,2024-07-08 08:54:58.719476
+DR8901,2,Revision de inventario trimestral,2024-01-08 13:42:41.572183
+V89890,4,Mantenimiento,2024-04-22 17:31:32.989282
+DR8901,1,Reunion de proyectos,2025-05-30 08:11:45.104442
+RH8901,4,Reunion de proyectos,2024-01-15 11:00:46.036878
+AV9029,1,Reunion de proyectos,2026-03-29 09:41:04.326501
+V56718,2,Requerimiento de proyectos,2024-10-25 09:50:28.968742
+CD0001,1,Voluntariado,2025-12-12 16:56:57.526586
+BE3019,5,Mantenimiento,2025-11-21 11:41:02.638482
+V83021,3,AOG de ultimo momento,2026-01-01 11:57:20.202986
+CD0002,3,Reunion de proyectos,2024-03-26 16:14:21.091972
+DR8901,2,AOG de ultimo momento,2025-10-11 12:10:26.690472
+RH8901,2,Requerimiento de proyectos,2026-01-09 17:15:41.317027
+DR8901,2,Operacion de Emergencia,2024-03-21 16:59:31.616892
+CD0001,1,Capacitacion,2024-11-17 17:41:46.932782
+DR8901,4,Mantenimiento,2024-10-11 09:38:02.932913
+AV9029,2,Voluntariado,2025-12-12 18:24:59.193588
+BE3019,2,Operacion de Emergencia,2025-09-08 18:10:27.804998
+BE3019,2,Operacion de Emergencia,2024-12-30 15:20:23.765783
+RH8901,2,Operacion de Emergencia,2024-01-04 13:55:16.852450
+DR8901,1,Operacion de Emergencia,2025-01-05 17:49:03.636595
+V83021,3,Requerimiento del almacen,2024-10-19 15:26:15.410868
+BE3019,1,Operacion de Emergencia,2026-02-09 12:27:53.740201
+V56718,1,Reunion de proyectos,2025-07-13 14:08:09.180872
+CD0001,2,Capacitacion,2024-12-28 13:55:51.818490
+DR8901,5,Requerimiento de proyectos,2025-11-20 16:15:47.991019
+RH8901,2,Capacitacion,2024-12-01 14:38:05.516215
+V56718,4,Operacion de Emergencia,2025-09-02 18:12:18.095700
+AV9029,3,Revision de inventario trimestral,2024-04-24 09:07:45.279140
+DR8901,4,Requerimiento de proyectos,2026-04-18 17:05:03.424051
+V89890,5,Mantenimiento,2024-09-12 13:10:22.345345
+AV9029,2,AOG de ultimo momento,2024-12-04 11:25:07.852481
+CD0001,5,Capacitacion,2025-11-27 09:22:10.642917
+DR8901,1,Voluntariado,2025-07-06 12:05:42.155744
+CD0001,1,Voluntariado,2024-12-10 18:02:39.230158
+V83021,3,Revision de inventario trimestral,2024-12-29 14:58:38.013546
+V56718,2,Requerimiento de proyectos,2025-10-17 14:49:44.054368
+RH8901,1,Reunion de proyectos,2025-04-02 15:15:05.497712
+CD0002,1,Reunion de proyectos,2024-09-10 15:11:35.851828
+V89890,2,Requerimiento de proyectos,2025-10-10 14:41:08.872852
+BE3019,2,AOG de ultimo momento,2026-03-14 11:02:40.845803
+RH8901,1,Requerimiento de proyectos,2024-12-23 11:33:20.030986
+BE3019,3,Mantenimiento,2024-01-18 16:24:29.343753
+AV9029,3,Capacitacion,2024-06-16 18:44:00.854251
+V83021,3,Revision de inventario trimestral,2025-09-05 10:34:10.948128
+RH8901,2,Requerimiento del almacen,2024-02-18 15:59:40.457928
+V89890,2,Operacion de Emergencia,2025-06-18 09:47:24.487109
+V83021,2,Capacitacion,2025-11-21 09:19:29.307118
+CD0002,3,Mantenimiento,2024-06-16 16:09:58.306909
+CD0001,3,Operacion de Emergencia,2025-04-22 16:59:31.441006
+BE3019,2,AOG de ultimo momento,2024-07-26 13:53:39.378245
+V09973,1,Reunion de proyectos,2025-02-16 12:46:32.686528
+BE3019,1,Requerimiento de proyectos,2025-04-02 18:30:49.258648
+CD0001,2,Requerimiento del almacen,2025-01-13 08:32:39.015827
+DR8901,2,Capacitacion,2024-07-10 15:21:52.092564
+V09973,2,Requerimiento de proyectos,2025-11-05 10:37:16.265409
+DR8901,1,Requerimiento de proyectos,2024-10-01 09:32:47.310627
+V89890,1,Requerimiento de proyectos,2025-01-27 15:30:09.917372
+V56718,1,Voluntariado,2024-06-12 14:14:55.728381
+CD0001,2,Revision de inventario trimestral,2025-02-12 10:34:18.429008
+AV9029,4,Reunion de proyectos,2025-12-12 18:09:07.638758
+V89890,4,Revision de inventario trimestral,2025-12-30 08:40:48.745449
+V09973,1,Operacion de Emergencia,2024-04-06 10:20:29.194484
+V89890,2,Operacion de Emergencia,2024-05-11 14:32:10.319149
+CD0002,1,Capacitacion,2026-02-25 13:22:27.450606
+CD0002,2,Voluntariado,2024-01-14 13:12:32.597674
+AV9029,3,Operacion de Emergencia,2026-02-27 15:36:47.365939
+DR8901,2,Reunion de proyectos,2024-06-06 18:16:40.882145
+AV9029,1,Revision de inventario trimestral,2026-04-14 18:58:44.635907
+DR8901,4,Revision de inventario trimestral,2025-04-28 10:51:43.273109
+RH8901,4,Reunion de proyectos,2024-05-26 14:23:23.520313
+CD0001,3,Reunion de proyectos,2024-05-27 16:05:10.188193
+DR8901,3,Voluntariado,2024-10-28 12:12:57.794165
+V83021,1,Revision de inventario trimestral,2025-06-04 10:14:46.003342
+RH8901,3,Requerimiento de proyectos,2024-08-15 10:48:58.639675
+V89890,1,Operacion de Emergencia,2025-12-04 10:38:26.492559
+CD0002,3,Mantenimiento,2025-09-16 09:15:26.999868
+CD0002,5,AOG de ultimo momento,2025-02-25 12:38:05.370025
+V56718,2,Voluntariado,2024-11-09 10:44:28.596643
+CD0002,1,Voluntariado,2024-02-28 12:18:45.991215
+DR8901,2,Voluntariado,2025-07-11 14:43:54.565017
+AV9029,5,Revision de inventario trimestral,2026-03-04 15:15:13.225916
+CD0001,2,Reunion de proyectos,2025-11-04 17:50:25.237777
+BE3019,5,Revision de inventario trimestral,2024-09-24 12:05:23.993889
+DR8901,2,Operacion de Emergencia,2025-07-15 15:24:10.711701
+RH8901,1,Mantenimiento,2024-05-04 14:56:44.217576
+CD0002,2,Requerimiento de proyectos,2024-03-06 15:37:57.859409
+RH8901,2,Capacitacion,2025-05-29 12:28:14.527599
+DR8901,3,Requerimiento de proyectos,2026-03-20 11:13:03.125546
+V56718,1,Requerimiento del almacen,2025-03-18 15:48:38.484846
+CD0001,3,Capacitacion,2025-08-19 16:22:08.440332
+V56718,3,Mantenimiento,2025-03-01 08:59:52.205362
+CD0001,4,Capacitacion,2025-02-07 16:56:17.469612
+DR8901,5,Reunion de proyectos,2024-02-19 11:33:05.839417
+DR8901,2,Revision de inventario trimestral,2025-07-02 08:46:58.498310
+DR8901,2,Requerimiento de proyectos,2024-07-11 12:28:33.520511
+V56718,3,Capacitacion,2025-04-13 11:52:31.950736
+V89890,1,Voluntariado,2025-10-20 10:29:18.485665
+V83021,2,Operacion de Emergencia,2024-03-22 10:17:33.118461
+V09973,2,AOG de ultimo momento,2024-11-26 08:11:13.318878
+CD0001,2,Revision de inventario trimestral,2024-02-18 15:03:44.710389
+RH8901,5,Requerimiento de proyectos,2025-12-30 15:03:21.613910
+V83021,4,Requerimiento de proyectos,2025-03-24 08:21:51.415142
+BE3019,4,Mantenimiento,2026-04-19 15:36:56.535252
+V83021,3,Revision de inventario trimestral,2024-10-14 18:00:06.045366
+CD0001,1,Mantenimiento,2025-08-03 09:24:54.708877
+BE3019,5,Operacion de Emergencia,2024-09-03 08:55:27.667063
+V56718,1,Voluntariado,2024-12-10 16:33:12.228561
+V09973,3,Reunion de proyectos,2025-01-17 17:28:57.463096
+V83021,3,Operacion de Emergencia,2025-12-04 08:06:22.448599
+AV9029,2,Mantenimiento,2024-08-25 08:24:48.519487
+V09973,2,AOG de ultimo momento,2025-12-22 12:04:06.312933
+BE3019,4,Mantenimiento,2024-09-06 10:55:49.711700
+BE3019,1,Requerimiento del almacen,2024-11-11 14:25:02.855988
+AV9029,3,Capacitacion,2025-02-23 08:51:08.463556
+BE3019,3,Reunion de proyectos,2025-01-08 09:58:22.873329
+V09973,2,AOG de ultimo momento,2025-09-09 16:22:01.776444
+DR8901,2,AOG de ultimo momento,2026-03-21 17:42:03.765509
+V56718,3,Capacitacion,2025-08-20 13:15:34.435396
+V09973,5,AOG de ultimo momento,2024-11-24 17:37:53.878127
+V89890,5,Operacion de Emergencia,2024-04-11 11:09:06.739746
+AV9029,3,Requerimiento del almacen,2025-02-22 14:31:20.882698
+RH8901,2,Operacion de Emergencia,2024-02-25 11:18:54.930575
+DR8901,2,Requerimiento del almacen,2025-03-13 08:48:40.539354
+V56718,2,AOG de ultimo momento,2025-12-01 15:51:26.490807
+CD0002,5,Capacitacion,2026-04-27 16:19:25.519519
+DR8901,2,Revision de inventario trimestral,2025-01-19 14:19:22.542755
+V09973,5,Operacion de Emergencia,2025-02-18 15:26:41.944281
+V89890,2,Reunion de proyectos,2024-01-04 10:00:09.052187
+V89890,3,Requerimiento de proyectos,2024-03-01 12:12:07.919018
+V89890,2,Revision de inventario trimestral,2024-06-04 14:50:01.933974
+V09973,3,AOG de ultimo momento,2024-06-21 09:41:40.744930
+AV9029,4,Capacitacion,2025-06-14 18:56:13.525195
+V89890,5,Reunion de proyectos,2024-08-23 10:25:27.470263
+DR8901,4,AOG de ultimo momento,2025-08-01 14:09:00.205010
+AV9029,2,Reunion de proyectos,2025-01-18 08:34:46.298991
+V56718,1,AOG de ultimo momento,2025-05-29 16:18:04.110885
+CD0001,1,AOG de ultimo momento,2024-03-15 14:42:13.846181
+DR8901,2,Operacion de Emergencia,2024-08-07 16:14:00.732849
+DR8901,2,Revision de inventario trimestral,2024-09-11 10:12:33.508366
+CD0002,1,Requerimiento de proyectos,2024-03-27 13:56:44.767855
+CD0002,2,Requerimiento del almacen,2026-01-13 15:32:53.728237
+V83021,2,Operacion de Emergencia,2025-08-15 15:48:11.884307
+CD0002,5,Voluntariado,2025-09-22 18:16:44.702502
+DR8901,1,Operacion de Emergencia,2025-09-15 18:27:42.250800
+V83021,1,Reunion de proyectos,2024-07-14 11:55:31.798983
+CD0001,2,Revision de inventario trimestral,2024-01-01 13:47:51.913094
+RH8901,2,Requerimiento del almacen,2025-02-16 15:13:39.487201
+V09973,3,Capacitacion,2025-09-09 08:17:57.437404
+V83021,2,Mantenimiento,2024-06-07 10:59:27.932350
+CD0002,2,Requerimiento del almacen,2025-01-09 09:51:26.609425
+V56718,3,Mantenimiento,2024-06-30 17:36:53.845216
+V56718,2,Requerimiento del almacen,2025-05-15 09:21:43.555301
+V89890,2,Operacion de Emergencia,2025-12-05 10:58:31.327218
+V56718,4,AOG de ultimo momento,2024-06-04 18:29:38.967076
+V56718,5,AOG de ultimo momento,2026-04-10 13:40:34.880324
+BE3019,2,Voluntariado,2026-01-19 13:19:34.291543
+V09973,2,Mantenimiento,2024-08-21 09:23:57.387093
+AV9029,2,Voluntariado,2025-06-19 09:20:32.996279
+DR8901,5,Requerimiento de proyectos,2026-04-18 13:00:27.748387
+BE3019,2,AOG de ultimo momento,2025-12-12 12:36:50.838683
+V09973,1,AOG de ultimo momento,2025-03-29 17:39:31.339373
+DR8901,5,Capacitacion,2025-02-20 09:41:52.748248
+V09973,3,Mantenimiento,2025-06-17 09:10:27.863055
+CD0002,2,Requerimiento del almacen,2025-06-21 15:03:18.480789
+V89890,5,Reunion de proyectos,2025-08-02 10:51:05.345332
+RH8901,4,Requerimiento del almacen,2024-03-09 18:36:15.055732
+V89890,2,Voluntariado,2025-09-17 14:32:09.840991
+V83021,3,Operacion de Emergencia,2025-11-03 08:37:56.300680
+V89890,4,Requerimiento de proyectos,2026-03-17 12:00:34.365723
+CD0001,2,Voluntariado,2026-01-21 12:52:41.692179
+RH8901,3,Voluntariado,2025-02-13 16:41:12.269613
+CD0001,5,Requerimiento de proyectos,2025-10-23 09:58:12.160595
+V56718,1,Reunion de proyectos,2025-01-16 17:12:33.931868
+V83021,3,Requerimiento de proyectos,2024-03-31 08:44:01.231725
+CD0002,5,Capacitacion,2025-01-23 17:32:00.628925
+V56718,4,Capacitacion,2026-03-04 09:56:32.214073
+AV9029,3,Mantenimiento,2025-08-19 12:00:09.251552
+CD0002,2,Mantenimiento,2025-12-29 14:07:54.721223
+CD0002,1,AOG de ultimo momento,2024-10-24 09:55:13.153694
+V09973,1,AOG de ultimo momento,2026-04-30 09:22:14.727811
+CD0001,3,Revision de inventario trimestral,2025-05-25 12:05:32.187804
+V89890,4,AOG de ultimo momento,2025-01-14 10:11:34.324922
+V56718,5,Mantenimiento,2024-04-19 08:36:22.012483
+CD0002,3,Mantenimiento,2025-05-14 12:01:04.619081
+V09973,2,Requerimiento de proyectos,2024-04-01 13:49:49.684378
+RH8901,5,Reunion de proyectos,2026-03-10 13:02:26.315483
+BE3019,2,Revision de inventario trimestral,2024-08-24 11:39:19.951736
+AV9029,2,Capacitacion,2025-10-05 12:36:27.590061
+V83021,2,AOG de ultimo momento,2024-01-01 15:51:33.808179
+AV9029,4,Requerimiento de proyectos,2024-08-13 17:13:12.809885
+AV9029,4,AOG de ultimo momento,2025-09-21 15:05:19.980541
+CD0001,2,Requerimiento del almacen,2024-04-10 13:03:13.959632
+BE3019,1,Requerimiento de proyectos,2026-01-01 17:28:21.285804
+AV9029,2,Requerimiento de proyectos,2025-06-21 11:25:56.919992
+CD0002,4,Revision de inventario trimestral,2024-03-26 13:10:25.299807
+V89890,4,Operacion de Emergencia,2025-09-27 17:06:47.754431
+RH8901,2,Revision de inventario trimestral,2026-04-20 09:36:24.542969
+CD0001,4,Capacitacion,2024-08-22 17:18:24.726353
+CD0002,5,Operacion de Emergencia,2025-11-26 08:48:11.617897
+AV9029,2,Requerimiento del almacen,2024-02-25 13:09:20.845829
+CD0002,2,Reunion de proyectos,2026-03-22 08:36:18.158556
+CD0001,1,Requerimiento del almacen,2025-12-05 18:07:31.229298
+V09973,3,Voluntariado,2026-03-06 17:07:44.236270
+AV9029,2,Operacion de Emergencia,2025-01-24 14:01:38.543982
+CD0001,2,Voluntariado,2025-03-13 18:26:04.410539
+V89890,2,Requerimiento del almacen,2024-02-15 11:03:36.222946
+V83021,4,Operacion de Emergencia,2025-06-02 18:48:53.152925
+V83021,5,Requerimiento del almacen,2025-01-26 17:54:18.978550
+V09973,3,Voluntariado,2025-04-02 13:56:47.240783
+CD0001,4,Capacitacion,2025-02-11 13:20:47.325239
+RH8901,2,Requerimiento del almacen,2025-07-16 17:56:54.301649
+DR8901,2,Revision de inventario trimestral,2025-06-19 16:25:29.276776
+BE3019,3,AOG de ultimo momento,2024-02-12 13:05:50.594097
+V09973,3,Operacion de Emergencia,2025-03-31 18:15:35.127550
+V09973,5,Reunion de proyectos,2024-11-19 18:04:14.627450
+RH8901,4,Capacitacion,2025-11-11 09:48:27.718133
+V56718,5,Requerimiento del almacen,2025-04-16 16:15:26.234799
+CD0001,4,Mantenimiento,2025-01-24 18:51:54.797122
+CD0002,3,Capacitacion,2024-10-19 17:20:49.500170
+CD0002,2,Capacitacion,2025-06-22 12:38:58.422069
+RH8901,5,Mantenimiento,2025-09-26 09:14:44.035515
+CD0002,2,Voluntariado,2025-04-12 13:15:13.615602
+AV9029,2,Revision de inventario trimestral,2025-01-27 09:31:39.429127
+DR8901,2,Requerimiento del almacen,2024-01-26 12:34:07.944040
+V89890,4,Revision de inventario trimestral,2025-09-21 16:45:10.803490
+V09973,3,Voluntariado,2024-12-04 10:51:10.063110
+AV9029,4,Mantenimiento,2025-09-15 13:08:37.570300
+RH8901,3,AOG de ultimo momento,2024-06-25 16:36:41.561023
+V89890,1,AOG de ultimo momento,2024-01-19 09:21:44.470907
+V83021,3,Requerimiento del almacen,2025-08-31 10:34:51.067289
+BE3019,2,Mantenimiento,2025-12-15 12:00:35.954999
+CD0001,5,Requerimiento del almacen,2025-02-23 12:04:55.404684
+AV9029,2,AOG de ultimo momento,2024-10-11 13:39:16.788923
+DR8901,1,Requerimiento de proyectos,2024-03-08 12:15:04.369846
+RH8901,2,Mantenimiento,2024-10-28 15:09:51.204727
+RH8901,3,Requerimiento del almacen,2025-09-01 16:54:38.514522
+CD0002,4,Mantenimiento,2024-08-09 08:06:41.777767
+V89890,4,Requerimiento de proyectos,2025-03-09 18:54:48.938469
+V09973,3,Voluntariado,2025-11-29 16:18:00.506750
+V09973,1,Operacion de Emergencia,2026-03-17 14:27:14.231099
+BE3019,1,Requerimiento de proyectos,2024-07-28 17:22:16.140278
+V56718,4,Capacitacion,2026-02-05 13:49:34.355545
+AV9029,4,Mantenimiento,2024-05-20 15:10:17.300519
+AV9029,3,Operacion de Emergencia,2024-02-23 10:41:24.521269
+V83021,4,Requerimiento del almacen,2024-09-29 14:03:26.451468
+V56718,2,Revision de inventario trimestral,2024-07-02 12:43:50.539482
+CD0002,5,Capacitacion,2025-04-03 15:51:51.757179
+CD0002,3,Requerimiento de proyectos,2024-01-26 14:49:30.096424
+BE3019,2,Voluntariado,2025-05-23 10:40:35.089412
+V89890,4,Requerimiento del almacen,2024-02-10 16:08:43.588547
+RH8901,5,Mantenimiento,2026-04-13 17:47:43.507001
+BE3019,4,Capacitacion,2025-03-08 18:05:48.428444
+V89890,2,Operacion de Emergencia,2025-01-11 18:50:14.325328
+CD0002,5,Voluntariado,2024-05-11 14:51:30.555209
+RH8901,2,Reunion de proyectos,2025-10-04 12:14:36.894227
+RH8901,5,AOG de ultimo momento,2025-04-24 15:59:30.442009
+V89890,5,Requerimiento del almacen,2025-10-22 14:54:35.647040
+V83021,2,Requerimiento del almacen,2025-02-24 09:47:11.336141
+RH8901,1,Voluntariado,2025-01-27 13:15:06.142698
+CD0001,1,AOG de ultimo momento,2024-06-20 16:50:38.041115
+AV9029,4,Voluntariado,2026-03-03 09:25:41.388970
+AV9029,2,Voluntariado,2024-10-08 11:17:01.888833
+AV9029,4,Operacion de Emergencia,2025-05-10 10:41:49.816559
+V89890,2,Reunion de proyectos,2026-03-12 09:46:27.907572
+AV9029,3,Voluntariado,2025-12-22 12:26:34.896694
+V56718,2,Revision de inventario trimestral,2024-07-20 17:49:24.621589
+AV9029,2,Reunion de proyectos,2025-09-04 12:17:11.591045
+DR8901,2,Requerimiento del almacen,2025-03-25 12:58:47.592244
+AV9029,1,AOG de ultimo momento,2024-07-10 08:25:59.330714
+V09973,5,Mantenimiento,2024-11-30 08:33:23.297909
+BE3019,3,Capacitacion,2025-04-26 09:44:29.427089
+V56718,3,Capacitacion,2024-02-21 14:20:45.981934
+DR8901,5,Requerimiento de proyectos,2026-02-04 15:40:36.700292
+RH8901,5,Requerimiento de proyectos,2026-02-07 15:18:35.423784
+AV9029,2,Reunion de proyectos,2025-08-11 11:10:09.935449
+DR8901,2,AOG de ultimo momento,2024-01-27 11:56:36.844028
+RH8901,3,Requerimiento del almacen,2026-02-12 08:12:01.801095
+DR8901,2,AOG de ultimo momento,2025-06-28 17:40:30.640215
+AV9029,2,Revision de inventario trimestral,2025-09-01 18:48:56.940869
+V83021,4,Operacion de Emergencia,2025-07-30 18:35:28.406345
+V83021,2,AOG de ultimo momento,2025-06-30 12:30:30.244831
+CD0002,1,Requerimiento del almacen,2025-12-11 08:48:22.909194
+RH8901,4,Reunion de proyectos,2025-08-21 14:59:55.254884
+V09973,2,Requerimiento de proyectos,2026-03-07 10:09:23.756978
+V83021,2,AOG de ultimo momento,2026-02-16 13:37:32.504530
+AV9029,4,Requerimiento del almacen,2025-06-06 09:58:20.953262
+BE3019,2,Reunion de proyectos,2026-04-26 10:52:31.602637
+AV9029,1,Capacitacion,2025-05-30 17:17:50.976654
+BE3019,1,Revision de inventario trimestral,2025-06-20 16:49:55.927961
+BE3019,2,Mantenimiento,2024-02-19 14:04:39.703916
+RH8901,2,Requerimiento de proyectos,2024-12-14 13:18:40.637605
+V83021,3,Requerimiento de proyectos,2025-07-08 18:48:59.531728
+V83021,2,Requerimiento del almacen,2024-04-15 09:23:11.746143
+RH8901,3,Capacitacion,2025-11-21 18:12:38.308082
+CD0002,1,AOG de ultimo momento,2024-01-09 14:01:10.978736
+BE3019,1,Requerimiento de proyectos,2026-01-08 12:48:28.038349
+CD0002,2,Requerimiento del almacen,2024-10-06 15:17:07.782840
+V09973,1,AOG de ultimo momento,2024-10-03 14:41:34.358352
+BE3019,3,Requerimiento del almacen,2025-05-27 15:34:33.473585
+V56718,3,Requerimiento del almacen,2026-04-23 15:50:21.779785
+AV9029,2,Requerimiento de proyectos,2024-12-20 16:38:01.561690
+CD0002,4,Revision de inventario trimestral,2025-10-08 08:25:08.510056
+V09973,2,Mantenimiento,2024-07-15 09:03:11.203851
+V56718,5,Revision de inventario trimestral,2025-12-21 16:48:57.302647
+CD0001,2,Mantenimiento,2024-04-07 14:20:33.964865
+V09973,2,Revision de inventario trimestral,2025-02-02 09:06:12.910460
+CD0002,2,AOG de ultimo momento,2025-01-07 13:28:35.003777
+RH8901,3,Voluntariado,2024-05-06 10:00:26.153413
+AV9029,4,Capacitacion,2024-01-02 11:22:30.907340
+CD0002,2,Mantenimiento,2024-09-26 14:44:12.844995
+DR8901,2,Capacitacion,2026-03-22 18:19:40.337226
+CD0002,5,Revision de inventario trimestral,2025-10-23 11:00:46.907308
+V56718,3,Revision de inventario trimestral,2025-07-14 17:34:15.707410
+CD0002,2,Requerimiento de proyectos,2025-05-19 12:58:07.129788
+V83021,2,Operacion de Emergencia,2025-10-09 14:59:55.317224
+CD0002,4,Requerimiento de proyectos,2025-08-14 15:26:21.196480
+V09973,3,Reunion de proyectos,2024-12-21 12:52:35.014256
+V83021,5,Revision de inventario trimestral,2024-04-19 13:29:54.786305
+V89890,1,Operacion de Emergencia,2025-06-14 17:56:28.839235
+CD0001,5,Requerimiento de proyectos,2024-10-08 08:46:44.291630
+V56718,1,Operacion de Emergencia,2025-05-29 10:05:10.592507
+V89890,5,Capacitacion,2025-07-24 15:17:01.844199
+DR8901,2,AOG de ultimo momento,2026-02-28 08:42:51.498873
+V89890,2,Revision de inventario trimestral,2025-05-22 13:06:39.454373
+V89890,4,AOG de ultimo momento,2025-05-05 13:58:24.872714
+RH8901,2,Revision de inventario trimestral,2024-12-16 10:29:25.093451
+RH8901,1,Capacitacion,2025-09-09 17:49:32.298412
+BE3019,4,Requerimiento del almacen,2025-04-09 17:56:27.085658
+BE3019,3,Reunion de proyectos,2024-09-06 16:54:11.956176
+CD0002,1,Requerimiento del almacen,2024-07-25 17:12:26.042819
+DR8901,1,AOG de ultimo momento,2025-02-23 17:47:19.244694
+V56718,2,Operacion de Emergencia,2025-08-04 10:12:40.966354
+DR8901,3,Voluntariado,2025-07-26 13:28:30.285326
+V56718,4,AOG de ultimo momento,2025-04-25 08:03:15.522504
+AV9029,4,Requerimiento del almacen,2024-06-02 12:21:56.796701
+CD0001,4,AOG de ultimo momento,2024-11-27 13:54:22.720718
+V89890,2,AOG de ultimo momento,2025-04-16 17:00:48.533374
+RH8901,5,AOG de ultimo momento,2025-09-28 13:09:47.543236
+CD0001,2,Requerimiento del almacen,2025-09-24 08:15:50.859763
+BE3019,3,Reunion de proyectos,2024-11-30 09:04:17.925095
+V09973,2,Reunion de proyectos,2025-04-28 09:23:44.472076
+CD0002,2,AOG de ultimo momento,2024-07-02 14:21:46.467146
+RH8901,3,Reunion de proyectos,2025-01-16 08:17:17.888892
+V89890,5,Capacitacion,2025-01-09 09:24:36.053884
+AV9029,3,Capacitacion,2024-12-02 09:33:28.755683
+RH8901,3,Reunion de proyectos,2025-05-20 18:37:23.051402
+AV9029,2,Revision de inventario trimestral,2025-11-01 11:40:53.503656
+V89890,1,Operacion de Emergencia,2024-10-30 10:36:40.404994
+AV9029,2,Mantenimiento,2024-08-14 17:35:06.574681
+CD0002,3,Operacion de Emergencia,2026-03-22 11:35:37.353831
+V83021,2,Operacion de Emergencia,2025-03-23 14:37:48.922670
+V09973,1,AOG de ultimo momento,2024-11-12 16:50:44.717517
+DR8901,2,Revision de inventario trimestral,2025-09-18 12:25:31.639651
+CD0001,2,Mantenimiento,2025-12-01 15:23:46.595105
+V56718,3,Voluntariado,2024-08-16 17:48:29.735744
+CD0001,1,Reunion de proyectos,2025-06-07 12:00:55.830194
+V09973,1,Capacitacion,2025-02-26 17:22:43.165035
+AV9029,4,Operacion de Emergencia,2025-11-19 09:09:11.218029
+V89890,4,Requerimiento de proyectos,2024-06-11 18:34:26.438763
+V83021,4,Capacitacion,2025-09-15 13:38:02.415749
+CD0002,4,Reunion de proyectos,2024-08-18 17:56:13.028662
+BE3019,2,Requerimiento del almacen,2025-09-11 09:10:28.134412
+AV9029,5,AOG de ultimo momento,2025-10-25 18:20:57.482103
+V89890,2,Mantenimiento,2024-09-26 10:05:57.322889
+V83021,4,Requerimiento del almacen,2024-07-09 10:32:11.947929
+V09973,1,Operacion de Emergencia,2024-05-10 11:46:48.364669
+CD0002,2,Reunion de proyectos,2025-11-20 17:52:59.030405
+RH8901,2,Reunion de proyectos,2024-04-23 17:30:56.359199
+AV9029,2,Operacion de Emergencia,2025-07-19 08:37:14.975712
+V56718,1,Voluntariado,2024-05-04 09:41:35.082541
+CD0001,1,Capacitacion,2026-03-28 08:32:37.791632
+BE3019,1,Reunion de proyectos,2026-01-02 10:59:11.656171
+BE3019,3,Requerimiento del almacen,2025-09-21 14:09:51.602154
+V56718,2,Requerimiento del almacen,2024-08-24 10:01:44.205639
+RH8901,5,Requerimiento del almacen,2025-02-25 16:30:54.820765
+RH8901,3,Revision de inventario trimestral,2024-11-20 18:18:09.665460
+V83021,1,Capacitacion,2024-04-17 10:35:22.326969
+CD0001,5,Requerimiento del almacen,2024-06-26 18:24:32.000673
+V09973,2,Mantenimiento,2025-11-19 08:24:42.502988
+V56718,2,Revision de inventario trimestral,2025-06-08 08:18:15.125123
+RH8901,5,Revision de inventario trimestral,2025-07-08 10:24:42.727725
+V83021,2,Operacion de Emergencia,2024-06-22 18:07:09.570140
+BE3019,2,Requerimiento de proyectos,2024-02-17 08:31:26.945547
+RH8901,1,Operacion de Emergencia,2026-01-31 15:35:06.860862
+RH8901,4,Capacitacion,2026-01-04 09:31:56.977398
+RH8901,3,Revision de inventario trimestral,2025-02-03 08:50:25.085722
+RH8901,3,Capacitacion,2025-06-16 12:36:47.402542
+BE3019,2,Voluntariado,2025-12-24 16:11:41.178026
+BE3019,1,Mantenimiento,2025-09-13 11:24:56.317161
+V56718,2,Revision de inventario trimestral,2025-11-30 08:51:54.004437
+RH8901,4,Requerimiento del almacen,2025-05-11 08:03:43.518691
+V89890,3,Operacion de Emergencia,2026-01-11 18:05:51.427554
+CD0002,2,Voluntariado,2025-11-25 12:00:33.120449
+DR8901,4,Requerimiento del almacen,2024-03-18 16:42:38.605762
+CD0001,2,Requerimiento del almacen,2024-02-10 09:08:20.721819
+V89890,1,Capacitacion,2024-02-21 16:03:17.352654
+V83021,2,Voluntariado,2025-05-29 18:22:13.943376
+DR8901,2,Requerimiento de proyectos,2025-11-18 10:46:44.794004
+V09973,1,Operacion de Emergencia,2025-10-13 14:11:34.665516
+V56718,3,Requerimiento de proyectos,2024-04-11 08:40:37.208364
+V09973,2,Capacitacion,2024-12-22 18:23:03.091753
+CD0002,3,Voluntariado,2024-01-28 13:06:26.423154
+V56718,2,AOG de ultimo momento,2025-07-30 17:41:06.362784
+V89890,1,Requerimiento del almacen,2025-03-09 16:17:49.093623
+AV9029,2,Revision de inventario trimestral,2025-04-17 16:40:21.841657
+CD0001,1,Operacion de Emergencia,2026-01-17 14:52:38.586513
+V09973,4,Reunion de proyectos,2024-04-20 13:22:02.876534
+CD0001,1,Requerimiento de proyectos,2026-02-22 12:39:27.487194
+CD0001,4,Capacitacion,2025-11-05 12:20:42.837759
+V83021,4,Requerimiento del almacen,2024-07-10 18:42:15.365487
+DR8901,2,Requerimiento del almacen,2024-03-31 13:38:22.485632
+DR8901,4,Requerimiento de proyectos,2024-11-26 16:08:55.945236
+V09973,1,Capacitacion,2024-06-04 11:55:53.793661
+V89890,3,Voluntariado,2025-04-06 10:05:28.038147
+V56718,1,Voluntariado,2024-12-18 15:09:43.291965
+V83021,4,Revision de inventario trimestral,2025-10-24 12:58:06.972714
+BE3019,1,Voluntariado,2025-01-08 10:41:47.252009
+CD0001,3,Reunion de proyectos,2025-07-29 11:48:54.626459
+CD0001,3,AOG de ultimo momento,2025-09-13 11:13:32.443319
+BE3019,1,Revision de inventario trimestral,2024-07-25 16:07:52.354210
+RH8901,1,Voluntariado,2024-09-16 12:35:15.186260
+CD0002,1,AOG de ultimo momento,2025-07-20 13:31:07.557219
+V09973,3,Reunion de proyectos,2025-08-12 14:06:32.627564
+V09973,2,Requerimiento de proyectos,2024-08-11 17:05:13.462223
+CD0001,4,Requerimiento del almacen,2024-01-18 09:23:44.285627
+CD0002,3,Capacitacion,2024-05-07 12:48:25.971809
+V09973,1,Revision de inventario trimestral,2025-12-27 08:34:17.281094
+DR8901,3,Revision de inventario trimestral,2024-04-19 15:26:15.708474
+BE3019,2,Reunion de proyectos,2024-10-19 13:49:06.415448
+CD0002,1,Requerimiento de proyectos,2025-08-23 18:20:53.381170
+V09973,3,Requerimiento del almacen,2024-01-08 08:49:03.718467
+V89890,3,Operacion de Emergencia,2025-01-22 12:41:44.036970
+AV9029,1,Requerimiento del almacen,2026-04-16 16:27:04.649300
+V09973,5,Mantenimiento,2024-07-06 11:20:31.943557
+V89890,2,Capacitacion,2024-09-26 14:48:16.849733
+CD0002,2,Mantenimiento,2026-02-01 09:32:37.298577
+CD0002,2,Operacion de Emergencia,2025-07-25 09:53:59.958480
+V09973,5,AOG de ultimo momento,2024-01-19 13:43:52.749345
+AV9029,2,Requerimiento del almacen,2024-07-28 11:36:33.029019
+CD0001,3,Operacion de Emergencia,2024-06-06 09:25:01.871736
+BE3019,4,Capacitacion,2026-01-16 12:55:12.483741
+V09973,4,AOG de ultimo momento,2024-09-12 14:41:39.311579
+V83021,1,Requerimiento de proyectos,2024-03-22 17:49:23.372834
+DR8901,2,Voluntariado,2024-12-17 11:19:58.098705
+CD0001,4,Revision de inventario trimestral,2025-03-07 13:43:40.918624
+V09973,2,Requerimiento de proyectos,2025-08-18 11:44:30.094911
+CD0001,1,AOG de ultimo momento,2025-07-26 12:24:00.776118
+V09973,5,Requerimiento de proyectos,2025-11-12 14:10:07.879964
+V83021,1,Revision de inventario trimestral,2024-02-29 16:23:56.918216
+V83021,1,AOG de ultimo momento,2026-01-26 13:46:26.671680
+AV9029,3,Operacion de Emergencia,2025-06-26 10:58:50.331002
+V56718,4,Voluntariado,2024-04-08 15:44:17.663299
+V89890,4,Requerimiento de proyectos,2024-11-28 09:28:53.884646
+CD0001,2,Revision de inventario trimestral,2026-01-03 17:43:27.893951
+DR8901,2,Reunion de proyectos,2025-10-12 12:12:15.041398
+CD0002,3,Revision de inventario trimestral,2025-06-13 11:21:47.673917
+CD0001,3,Voluntariado,2025-03-30 12:03:08.437941
+CD0002,1,Requerimiento del almacen,2024-03-16 09:18:17.416280
+CD0001,2,AOG de ultimo momento,2026-04-14 16:10:06.665972
+CD0002,3,Revision de inventario trimestral,2025-11-12 11:07:06.384546
+AV9029,1,Revision de inventario trimestral,2025-09-23 13:10:33.489723
+CD0002,3,Requerimiento de proyectos,2025-03-08 13:41:16.344904
+V09973,1,Capacitacion,2025-09-29 16:22:58.507044
+CD0001,5,Requerimiento de proyectos,2025-06-10 18:30:34.723307
+V09973,2,Voluntariado,2024-11-10 17:30:54.634083
+AV9029,4,Operacion de Emergencia,2025-12-10 14:42:43.099773
+CD0001,4,Requerimiento del almacen,2024-04-08 08:18:37.773857
+AV9029,3,Revision de inventario trimestral,2025-11-07 11:26:22.223314
+V89890,1,Mantenimiento,2026-02-23 10:01:05.393336
+CD0001,5,AOG de ultimo momento,2026-01-16 17:48:33.453159
+V56718,3,AOG de ultimo momento,2025-03-01 08:29:32.848073
+DR8901,3,AOG de ultimo momento,2025-05-05 11:39:33.838937
+DR8901,2,AOG de ultimo momento,2025-05-14 09:38:21.703484
+V56718,3,Mantenimiento,2024-12-30 17:31:07.929312
+V83021,1,AOG de ultimo momento,2024-07-01 13:19:28.888288
+V83021,3,Operacion de Emergencia,2024-09-18 16:31:36.408158
+BE3019,2,Mantenimiento,2024-01-31 13:10:09.279144
+V09973,2,Capacitacion,2025-05-24 13:28:48.219823
+DR8901,1,Voluntariado,2025-04-13 14:25:59.956905
+BE3019,1,Voluntariado,2025-02-15 08:50:56.466626
+AV9029,3,AOG de ultimo momento,2026-03-25 15:14:58.168009
+V89890,5,AOG de ultimo momento,2025-12-04 14:05:20.769944
+BE3019,2,Mantenimiento,2025-07-21 16:44:26.340430
+DR8901,2,Capacitacion,2025-04-21 12:41:29.806946
+RH8901,1,Voluntariado,2024-04-14 09:18:22.449498
+V09973,1,Reunion de proyectos,2025-06-08 13:54:57.030938
+AV9029,1,Operacion de Emergencia,2024-03-19 14:33:11.819950
+CD0002,5,Requerimiento del almacen,2024-06-16 12:03:22.312074
+V89890,3,AOG de ultimo momento,2024-10-14 08:05:01.743020
+BE3019,2,Operacion de Emergencia,2024-10-17 10:15:44.679864
+V56718,2,Requerimiento de proyectos,2026-04-17 18:14:32.475018
+AV9029,2,Operacion de Emergencia,2024-01-29 17:37:36.290335
+V56718,1,Operacion de Emergencia,2024-09-14 10:09:59.718379
+RH8901,2,Revision de inventario trimestral,2024-03-21 18:20:14.933767
+V56718,5,AOG de ultimo momento,2024-05-05 11:33:43.281769
+CD0002,3,Requerimiento del almacen,2026-03-18 15:19:14.389262
+CD0001,2,Requerimiento del almacen,2025-10-27 10:15:13.830869
+V09973,1,Requerimiento del almacen,2024-02-19 15:08:36.335104
+DR8901,2,AOG de ultimo momento,2025-09-18 09:04:57.054408
+CD0001,1,AOG de ultimo momento,2025-11-07 08:32:51.705019
+AV9029,5,Voluntariado,2024-02-16 11:09:44.391977
+AV9029,3,Requerimiento de proyectos,2024-12-17 09:43:49.873221
+CD0001,1,Requerimiento del almacen,2025-01-05 11:01:43.835201
+V89890,2,Capacitacion,2024-08-29 18:18:47.486810
+V83021,1,Operacion de Emergencia,2025-11-30 10:01:03.480291
+DR8901,2,Mantenimiento,2024-11-11 14:14:40.398970
+AV9029,2,Requerimiento de proyectos,2026-01-05 12:39:28.673086
+CD0002,3,Requerimiento de proyectos,2025-11-14 08:21:26.132812
+V09973,2,Revision de inventario trimestral,2026-04-15 08:16:20.224877
+DR8901,5,AOG de ultimo momento,2025-07-30 16:04:41.020965
+V09973,2,Revision de inventario trimestral,2024-03-14 11:36:01.723087
+RH8901,2,Operacion de Emergencia,2024-12-02 10:27:14.267933
+RH8901,2,Mantenimiento,2026-02-26 15:05:26.899575
+V09973,3,AOG de ultimo momento,2025-04-14 11:22:39.044046
+BE3019,5,AOG de ultimo momento,2024-04-17 14:13:22.902359
+BE3019,5,Revision de inventario trimestral,2024-12-11 08:57:27.597648
+CD0001,4,Reunion de proyectos,2025-12-28 15:08:23.944833
+CD0001,3,Voluntariado,2024-09-10 08:31:25.835149
+RH8901,2,Mantenimiento,2024-08-17 13:45:44.225517
+BE3019,3,Operacion de Emergencia,2025-05-22 11:52:53.182754
+V56718,4,Voluntariado,2024-07-21 08:45:50.429165
+BE3019,4,Operacion de Emergencia,2026-01-08 14:55:44.987240
+BE3019,5,Voluntariado,2024-04-26 10:26:49.838568
+V56718,4,Revision de inventario trimestral,2025-08-22 18:39:32.284577
+V83021,5,AOG de ultimo momento,2025-05-15 12:48:20.014849
+CD0001,2,Requerimiento de proyectos,2026-01-30 14:55:57.071492
+DR8901,1,Reunion de proyectos,2025-02-24 10:35:58.343547
+V09973,3,Voluntariado,2025-11-09 09:02:19.474847
+V09973,3,AOG de ultimo momento,2024-05-10 18:49:11.694793
+AV9029,4,Mantenimiento,2024-01-26 12:19:51.510710
+BE3019,2,Reunion de proyectos,2026-01-14 16:01:47.069268
+CD0002,5,Mantenimiento,2025-11-13 12:09:11.661053
+V83021,1,Mantenimiento,2025-06-18 10:25:07.109214
+V83021,3,Requerimiento de proyectos,2025-08-12 13:26:48.536541
+V83021,5,AOG de ultimo momento,2026-03-27 10:21:16.413438
+V09973,1,Mantenimiento,2025-06-09 15:12:50.095994
+V89890,5,Requerimiento del almacen,2025-05-20 12:15:43.404592
+V83021,3,Capacitacion,2024-01-01 10:53:45.001737
+CD0001,4,Mantenimiento,2024-03-10 10:39:55.707783
+CD0002,2,Requerimiento del almacen,2025-12-28 10:10:21.047447
+V83021,3,Operacion de Emergencia,2024-10-14 13:23:18.375977
+V83021,5,Capacitacion,2026-01-19 16:09:54.500097
+V83021,5,Revision de inventario trimestral,2024-09-07 08:12:46.425300
+CD0002,1,Operacion de Emergencia,2024-01-27 18:36:17.462907
+CD0002,2,Revision de inventario trimestral,2025-01-19 11:51:33.419371
+V89890,3,AOG de ultimo momento,2025-09-11 16:08:22.716655
+V89890,1,Reunion de proyectos,2025-05-26 09:28:36.378762
+V89890,5,Voluntariado,2026-04-02 09:25:42.533173
+BE3019,2,AOG de ultimo momento,2026-02-22 14:11:27.641001
+V56718,1,Voluntariado,2025-08-17 15:23:46.894447
+RH8901,5,Revision de inventario trimestral,2024-04-09 17:09:38.841050
+V09973,2,Capacitacion,2024-04-27 09:21:53.813912
+V09973,4,AOG de ultimo momento,2025-10-17 13:35:39.840676
+CD0001,3,AOG de ultimo momento,2025-07-06 16:05:41.352663
+DR8901,2,Reunion de proyectos,2025-06-14 13:50:45.374421
+BE3019,2,Mantenimiento,2026-02-16 15:51:00.647657
+BE3019,2,Operacion de Emergencia,2026-02-09 14:57:22.008820
+V89890,2,Operacion de Emergencia,2025-12-28 14:47:36.541301
+BE3019,1,Capacitacion,2024-04-28 17:23:56.433466
+V89890,3,Reunion de proyectos,2024-11-13 08:10:57.588896
+V09973,3,Capacitacion,2024-06-03 17:19:36.853005
+CD0002,2,Requerimiento de proyectos,2024-07-26 16:40:09.783222
+DR8901,2,Reunion de proyectos,2025-11-27 12:55:34.821162
+CD0002,1,Requerimiento de proyectos,2025-04-07 09:50:25.702211
+BE3019,2,Revision de inventario trimestral,2024-07-09 13:49:59.677561
+RH8901,2,AOG de ultimo momento,2024-07-29 10:12:16.079395
+BE3019,2,Mantenimiento,2025-05-31 09:43:46.813373
+V56718,3,Mantenimiento,2024-09-11 18:16:25.658553
+AV9029,1,AOG de ultimo momento,2025-09-30 14:13:16.777815
+AV9029,3,Requerimiento del almacen,2025-11-21 15:05:17.970094
+CD0001,2,Reunion de proyectos,2026-04-26 08:53:34.584212
+RH8901,5,Reunion de proyectos,2024-06-13 13:10:23.064294
+V83021,2,Capacitacion,2025-03-23 09:43:05.134243
+BE3019,5,AOG de ultimo momento,2025-09-19 10:37:57.582609
+V56718,3,Reunion de proyectos,2025-01-29 13:52:30.428211
+BE3019,2,Operacion de Emergencia,2026-04-18 09:54:31.017491
+BE3019,5,Voluntariado,2025-08-14 17:31:21.557215
+BE3019,2,Requerimiento de proyectos,2025-03-18 15:22:06.219420
+DR8901,1,Mantenimiento,2024-03-31 13:27:33.713564
+RH8901,4,Revision de inventario trimestral,2026-04-16 18:51:31.409397
+BE3019,1,Capacitacion,2025-01-20 12:34:30.305487
+BE3019,2,Requerimiento de proyectos,2025-07-28 16:31:15.169166
+V56718,2,Mantenimiento,2024-09-12 14:41:05.499718
+V83021,3,Reunion de proyectos,2025-05-16 11:49:01.761151
+CD0001,2,Operacion de Emergencia,2024-03-02 10:14:45.861942
+CD0002,3,Requerimiento del almacen,2026-01-01 17:21:38.418430
+BE3019,3,Revision de inventario trimestral,2024-08-10 09:36:47.837690
+V56718,3,Revision de inventario trimestral,2024-10-03 11:19:48.819604
+RH8901,2,Requerimiento de proyectos,2025-10-23 13:36:57.027400
+V09973,2,Operacion de Emergencia,2024-11-08 09:44:36.476980
+DR8901,3,Voluntariado,2024-06-20 18:14:01.095434
+V56718,5,Revision de inventario trimestral,2025-05-30 12:49:33.819390
+V56718,2,Operacion de Emergencia,2025-04-23 16:04:54.116999
+V89890,3,Operacion de Emergencia,2025-11-07 16:43:26.430004
+CD0001,3,Requerimiento del almacen,2025-07-01 13:07:12.260115
+CD0001,2,Requerimiento de proyectos,2025-08-15 15:39:40.863240
+AV9029,2,Mantenimiento,2025-02-28 14:40:57.967483
+RH8901,3,Requerimiento de proyectos,2024-10-31 12:00:14.239567
+CD0002,2,AOG de ultimo momento,2026-03-08 16:22:13.508682
+V89890,1,Operacion de Emergencia,2025-03-07 08:43:00.027319
+CD0001,2,Revision de inventario trimestral,2024-09-26 09:32:16.776708
+V83021,5,Revision de inventario trimestral,2025-12-19 08:06:13.401770
+V83021,3,Requerimiento del almacen,2024-11-21 12:29:08.107002
+V83021,3,Mantenimiento,2025-11-05 18:35:40.417508
+V89890,4,Revision de inventario trimestral,2025-09-10 09:33:40.189308
+RH8901,2,Operacion de Emergencia,2025-07-07 12:17:36.857300
+V09973,2,Voluntariado,2024-10-13 17:26:46.366048
+V09973,4,Mantenimiento,2024-01-05 10:14:46.392581
+V09973,3,Requerimiento de proyectos,2025-12-30 12:36:05.796316
+V09973,3,Voluntariado,2024-11-20 10:30:53.306089
+V89890,3,Mantenimiento,2025-12-06 16:53:38.717311
+V56718,3,Revision de inventario trimestral,2026-04-19 08:42:26.270336
+DR8901,2,Mantenimiento,2025-05-19 11:49:05.485024
+DR8901,1,Operacion de Emergencia,2025-12-18 18:55:48.734760
+DR8901,2,Revision de inventario trimestral,2024-03-21 14:46:26.268002
+CD0002,1,Requerimiento del almacen,2024-03-17 14:56:08.229326
+V09973,5,Reunion de proyectos,2024-03-11 12:04:19.550288
+V89890,5,Voluntariado,2025-11-19 12:18:06.715022
+V83021,5,Mantenimiento,2024-04-17 10:50:28.455154
+DR8901,5,Reunion de proyectos,2024-01-23 11:17:32.279898
+V89890,3,Operacion de Emergencia,2025-06-13 13:10:17.071274
+RH8901,4,Requerimiento de proyectos,2025-10-05 10:59:46.973812
+BE3019,5,Requerimiento de proyectos,2026-02-01 10:01:28.860091
+DR8901,5,Requerimiento del almacen,2025-04-18 16:18:11.973731
+V83021,1,Mantenimiento,2026-01-11 16:10:17.965633
+BE3019,5,Reunion de proyectos,2025-09-09 09:28:04.026718
+V56718,2,AOG de ultimo momento,2024-07-03 17:34:21.601654
+AV9029,2,Requerimiento de proyectos,2025-11-27 12:24:39.729678
+CD0002,2,Requerimiento del almacen,2025-07-08 11:11:02.219312
+V56718,2,Requerimiento del almacen,2025-03-24 11:08:11.880663
+RH8901,3,Requerimiento de proyectos,2026-01-09 12:46:04.192446
+BE3019,2,AOG de ultimo momento,2024-05-25 09:34:24.353996
+AV9029,1,Revision de inventario trimestral,2026-02-16 13:22:36.446657
+V89890,5,AOG de ultimo momento,2024-12-29 16:01:33.443803
+V09973,5,Reunion de proyectos,2025-02-04 15:38:01.490265
+V09973,1,Voluntariado,2025-12-05 08:12:00.986946
+BE3019,2,Voluntariado,2026-01-21 14:59:29.758542
+V83021,3,Reunion de proyectos,2024-02-01 10:36:46.101879
+V09973,5,Mantenimiento,2025-06-02 16:59:57.100110
+V89890,3,Reunion de proyectos,2025-03-27 10:37:28.373089
+CD0001,2,Reunion de proyectos,2024-05-09 10:16:57.944463
+DR8901,3,Operacion de Emergencia,2024-05-18 13:21:30.243270
+DR8901,4,Voluntariado,2024-05-24 12:35:13.271058
+V56718,1,Mantenimiento,2025-06-26 11:43:58.246935
+RH8901,4,Reunion de proyectos,2024-04-07 13:09:12.366780
+CD0002,1,Voluntariado,2024-01-21 16:21:39.342787
+V89890,2,Requerimiento de proyectos,2026-03-12 14:09:53.515350
+CD0002,2,Voluntariado,2024-01-31 15:49:01.638878
+CD0001,4,Mantenimiento,2025-02-19 11:00:57.058281
+V89890,2,Capacitacion,2026-03-26 17:34:47.519496
+V09973,5,AOG de ultimo momento,2025-02-07 12:06:11.343618
+V09973,1,Requerimiento de proyectos,2026-02-12 09:49:57.865947
+CD0002,4,Voluntariado,2025-08-08 13:44:38.433524
+V83021,3,Requerimiento del almacen,2025-01-30 11:55:06.245854
+BE3019,1,Operacion de Emergencia,2024-10-23 10:31:10.601827
+AV9029,2,Mantenimiento,2024-03-18 09:56:56.464713
+V83021,2,Requerimiento del almacen,2024-05-16 09:30:55.232710
+BE3019,5,Operacion de Emergencia,2024-07-18 13:45:24.928839
+CD0002,4,Reunion de proyectos,2025-11-06 10:46:15.331909
+CD0001,1,Operacion de Emergencia,2024-06-22 14:19:34.733498
+V89890,1,AOG de ultimo momento,2025-11-04 16:01:04.549398
+V89890,2,Mantenimiento,2025-06-26 16:02:51.840508
+CD0001,1,Requerimiento de proyectos,2025-06-12 16:57:27.944647
+V09973,4,Capacitacion,2025-02-01 17:11:07.662937
+BE3019,2,AOG de ultimo momento,2024-07-01 12:27:47.361146
+V09973,2,AOG de ultimo momento,2024-03-13 12:10:12.888487
+V09973,1,AOG de ultimo momento,2026-01-28 08:07:15.060192
+CD0002,1,Revision de inventario trimestral,2025-11-05 09:38:07.617161
+RH8901,3,Voluntariado,2024-05-29 09:37:53.401482
+CD0002,3,Requerimiento de proyectos,2025-07-24 13:16:21.603091
+V83021,2,Requerimiento de proyectos,2024-10-05 11:14:46.221911
+RH8901,2,Requerimiento del almacen,2024-05-23 13:00:43.604733
+V09973,2,Operacion de Emergencia,2026-04-04 11:57:14.495870
+CD0002,2,Voluntariado,2024-06-15 18:11:39.326946
+V56718,5,Operacion de Emergencia,2025-10-30 13:06:34.899876
+RH8901,3,Requerimiento del almacen,2025-04-12 12:01:16.882226
+V89890,3,Mantenimiento,2025-11-24 09:06:20.635359
+V09973,2,Requerimiento del almacen,2024-12-26 08:34:20.674274
+V56718,1,Voluntariado,2025-02-20 11:36:16.807812
+V83021,3,Requerimiento de proyectos,2026-02-28 10:41:13.645635
+V56718,5,Reunion de proyectos,2024-09-11 11:02:19.207870
+CD0001,2,Capacitacion,2025-06-27 08:47:45.830555
+V83021,5,Operacion de Emergencia,2025-04-29 18:21:28.429532
+CD0001,3,Revision de inventario trimestral,2025-01-23 09:10:45.133316
+V83021,2,Requerimiento de proyectos,2026-02-18 18:25:39.125890
+CD0002,5,Requerimiento de proyectos,2025-11-03 09:00:19.508022
+AV9029,3,Requerimiento del almacen,2024-06-10 16:36:19.625172
+AV9029,3,Voluntariado,2024-02-18 12:53:10.747638
+DR8901,1,AOG de ultimo momento,2025-02-13 18:46:08.567484
+DR8901,1,Reunion de proyectos,2024-08-10 13:24:22.053395
+AV9029,1,Requerimiento de proyectos,2024-10-21 18:13:41.069995
+CD0001,3,Requerimiento de proyectos,2024-11-20 16:36:25.857454
+DR8901,3,Mantenimiento,2024-07-16 16:56:04.794245
+CD0002,2,Capacitacion,2025-03-21 12:45:51.235876
+CD0001,1,Requerimiento de proyectos,2024-03-08 16:16:42.327470
+V09973,2,Requerimiento de proyectos,2025-08-25 12:57:39.187131
+CD0001,2,Capacitacion,2025-04-01 12:37:40.355924
+V09973,4,AOG de ultimo momento,2024-11-11 09:20:26.146003
+AV9029,1,AOG de ultimo momento,2024-01-26 15:57:00.112999
+AV9029,3,Revision de inventario trimestral,2025-10-24 15:47:40.414061
+CD0002,3,Capacitacion,2025-03-08 14:21:33.520797
+V89890,4,AOG de ultimo momento,2025-01-10 13:31:41.531817
+BE3019,2,Requerimiento del almacen,2026-04-14 13:36:05.165523
+CD0002,3,Requerimiento del almacen,2024-07-21 17:29:35.063620
+CD0002,2,AOG de ultimo momento,2024-08-19 10:10:19.791275
+DR8901,2,Mantenimiento,2025-02-15 14:07:41.339942
+RH8901,3,Reunion de proyectos,2024-07-01 15:08:32.236907
+V09973,3,Requerimiento del almacen,2026-03-01 13:37:42.672231
+V56718,1,Mantenimiento,2025-09-25 15:53:31.502392
+CD0001,2,AOG de ultimo momento,2025-11-27 15:13:17.343942
+CD0002,1,Requerimiento del almacen,2025-06-06 09:10:46.556746
+CD0001,3,Requerimiento de proyectos,2025-01-11 12:35:35.501150
+DR8901,5,Voluntariado,2025-08-04 10:56:00.437397
+CD0002,4,Voluntariado,2024-11-12 18:18:19.029975
+V83021,2,AOG de ultimo momento,2025-08-28 10:59:10.529056
+V89890,1,Mantenimiento,2025-06-05 14:28:35.698028
+RH8901,2,AOG de ultimo momento,2024-08-02 11:21:30.128298
+RH8901,2,Revision de inventario trimestral,2024-04-25 12:56:27.930327
+CD0001,5,Voluntariado,2026-03-01 13:50:41.004600
+CD0001,1,Revision de inventario trimestral,2025-11-28 08:46:24.858641
+V83021,4,Mantenimiento,2024-02-17 18:22:59.292133
+V89890,4,Mantenimiento,2024-08-24 14:08:23.141243
+RH8901,3,Voluntariado,2024-11-25 11:06:57.853572
+DR8901,5,Voluntariado,2024-04-22 13:07:55.332922
+V09973,2,Requerimiento del almacen,2024-06-10 08:16:57.434121
+CD0002,1,AOG de ultimo momento,2025-04-04 09:09:19.146291
+AV9029,2,AOG de ultimo momento,2026-03-12 12:27:03.020139
+V83021,5,Reunion de proyectos,2024-09-15 16:20:20.136941
+RH8901,5,AOG de ultimo momento,2024-07-01 09:38:24.611734
+BE3019,1,Capacitacion,2026-04-05 18:35:36.734262
+AV9029,2,Voluntariado,2024-08-26 18:36:23.502655
+V89890,2,Operacion de Emergencia,2024-12-31 14:09:23.327282
+V56718,1,AOG de ultimo momento,2026-01-23 08:13:48.668226
+AV9029,5,AOG de ultimo momento,2024-10-26 13:30:40.343650
+V56718,2,Operacion de Emergencia,2024-10-23 10:53:07.849113
+V56718,1,Operacion de Emergencia,2026-04-21 13:06:56.229168
+V89890,3,Requerimiento de proyectos,2025-05-16 14:58:48.439459
+BE3019,3,Operacion de Emergencia,2025-11-24 18:06:02.154772
+CD0001,3,AOG de ultimo momento,2024-11-03 18:18:51.881579
+CD0002,5,Reunion de proyectos,2025-03-19 09:50:22.949822
+RH8901,4,Revision de inventario trimestral,2025-06-09 18:48:23.101265
+BE3019,2,Reunion de proyectos,2024-11-03 18:20:32.538598
+V83021,1,Reunion de proyectos,2025-11-25 10:40:48.454994
+CD0002,4,AOG de ultimo momento,2024-05-24 15:58:08.085052
+CD0002,1,Reunion de proyectos,2024-01-13 10:41:35.002755
+CD0002,2,Mantenimiento,2025-07-26 17:25:46.728926
+V56718,3,Capacitacion,2024-06-27 17:44:51.049321
+CD0002,2,AOG de ultimo momento,2025-09-06 11:06:08.128438
+AV9029,2,Mantenimiento,2025-08-29 12:38:23.369275
+V09973,2,Operacion de Emergencia,2024-02-11 17:50:16.741889
+CD0002,5,Operacion de Emergencia,2026-04-05 10:22:31.001571
+CD0002,5,Revision de inventario trimestral,2026-04-12 12:55:45.031153
+V09973,4,Revision de inventario trimestral,2025-08-02 17:14:19.834091
+V09973,3,Reunion de proyectos,2025-05-04 13:54:23.354636
+CD0002,1,Operacion de Emergencia,2024-02-22 14:04:51.027709
+V09973,3,Voluntariado,2026-03-30 15:09:28.927781
+V89890,1,Requerimiento del almacen,2024-10-25 14:50:39.349140
+AV9029,2,Operacion de Emergencia,2025-05-03 14:50:43.048603
+CD0002,5,AOG de ultimo momento,2024-12-20 13:11:43.388151
+V56718,4,Voluntariado,2024-10-02 12:47:11.109710
+AV9029,5,Revision de inventario trimestral,2024-04-27 17:57:32.946717
+DR8901,2,Requerimiento del almacen,2024-01-14 13:28:24.098867
+CD0001,2,Operacion de Emergencia,2025-01-12 17:00:27.179649
+V83021,2,Reunion de proyectos,2024-08-11 14:47:46.069092
+AV9029,5,AOG de ultimo momento,2026-01-01 10:45:21.614959
+V89890,1,Capacitacion,2025-01-17 17:37:37.907262
+RH8901,2,Requerimiento del almacen,2025-11-18 10:06:22.694478
+RH8901,1,Capacitacion,2024-07-26 11:13:54.119072
+V56718,3,Voluntariado,2025-10-23 15:07:01.894094
+V83021,3,Requerimiento del almacen,2024-12-15 16:13:51.214839
+V89890,3,Mantenimiento,2024-09-03 10:18:13.100648
+V56718,4,Operacion de Emergencia,2024-06-18 15:52:41.447988
+CD0001,2,AOG de ultimo momento,2024-12-04 15:28:31.793501
+CD0001,3,Requerimiento del almacen,2024-11-25 14:52:21.396071
+V83021,1,Revision de inventario trimestral,2024-05-21 10:57:06.504011
+V56718,2,Capacitacion,2026-03-06 11:30:07.500824
+DR8901,3,Requerimiento del almacen,2024-03-05 18:18:08.568607
+V56718,3,Requerimiento de proyectos,2024-03-10 15:19:07.380801
+CD0001,2,Voluntariado,2025-02-15 09:32:15.778699
+DR8901,1,Requerimiento del almacen,2024-12-04 16:57:30.813106
+CD0002,3,Revision de inventario trimestral,2025-09-18 12:13:28.096823
+CD0001,3,Mantenimiento,2025-03-18 08:22:49.052338
+AV9029,2,Mantenimiento,2025-09-30 08:10:04.048253
+CD0002,3,Reunion de proyectos,2025-11-03 10:35:47.864884
+CD0001,5,Capacitacion,2025-11-19 15:43:03.270808
+V56718,5,Mantenimiento,2024-06-09 15:13:58.750894
+V83021,3,AOG de ultimo momento,2026-02-20 18:48:19.508622
+V09973,3,Requerimiento de proyectos,2025-09-10 09:25:27.118847
+RH8901,2,Mantenimiento,2025-05-01 12:22:49.290688
+RH8901,3,Requerimiento del almacen,2025-06-28 18:09:31.459398
+CD0002,3,Voluntariado,2025-07-03 13:19:52.612342
+CD0001,3,Operacion de Emergencia,2026-03-17 13:05:14.441412
+CD0002,3,Voluntariado,2024-06-09 16:11:09.933250
+BE3019,3,Requerimiento de proyectos,2026-03-23 15:57:59.265561
+BE3019,4,Reunion de proyectos,2026-04-11 10:15:31.249046
+BE3019,2,Requerimiento de proyectos,2024-01-04 17:31:56.104041
+DR8901,4,AOG de ultimo momento,2025-01-03 09:41:47.186724
+V09973,1,Capacitacion,2024-05-15 17:02:34.289836
+RH8901,3,Revision de inventario trimestral,2026-01-20 17:16:04.749354
+V09973,2,Revision de inventario trimestral,2026-03-08 12:30:09.630637
+DR8901,1,Requerimiento de proyectos,2025-12-31 11:37:03.548381
+AV9029,1,AOG de ultimo momento,2025-06-25 16:37:06.091809
+DR8901,4,Reunion de proyectos,2025-04-09 11:49:06.192553
+RH8901,3,Reunion de proyectos,2024-05-10 11:23:26.964136
+CD0001,3,Requerimiento de proyectos,2024-03-09 09:29:15.754140
+BE3019,3,Requerimiento de proyectos,2025-05-10 13:30:14.780329
+AV9029,1,Revision de inventario trimestral,2024-11-17 12:16:44.986101
+V83021,2,Mantenimiento,2025-08-07 17:15:16.234744
+V56718,2,Mantenimiento,2026-04-25 15:03:10.072576
+V83021,2,Reunion de proyectos,2024-03-17 17:48:54.929039
+AV9029,1,Operacion de Emergencia,2025-02-23 15:48:00.996519
+V83021,1,Revision de inventario trimestral,2025-11-22 12:04:37.387959
+RH8901,1,Operacion de Emergencia,2025-04-05 16:10:57.630876
+CD0002,3,Voluntariado,2024-08-08 09:16:19.960493
+CD0001,2,Reunion de proyectos,2024-10-23 17:43:36.913224
+RH8901,1,Mantenimiento,2025-04-17 14:05:12.001334
+V89890,1,Operacion de Emergencia,2025-06-25 14:25:01.253078
+BE3019,5,Reunion de proyectos,2025-03-16 11:14:32.349982
+BE3019,1,Requerimiento del almacen,2026-03-24 11:40:57.119253
+V89890,4,AOG de ultimo momento,2024-06-21 11:51:54.669950
+DR8901,5,Requerimiento de proyectos,2026-01-19 08:22:29.203468
+AV9029,1,Reunion de proyectos,2025-05-05 11:01:42.475709
+AV9029,2,Voluntariado,2024-02-03 12:48:54.114014
+DR8901,4,Mantenimiento,2026-02-06 08:34:27.830910
+V09973,2,AOG de ultimo momento,2025-08-14 12:56:53.446009
+BE3019,3,AOG de ultimo momento,2025-03-12 10:53:06.586450
+V09973,2,Revision de inventario trimestral,2025-05-11 12:15:31.240495
+V89890,3,Voluntariado,2024-08-31 18:45:29.472471
+RH8901,2,Mantenimiento,2025-03-07 08:23:30.768954
+CD0002,4,AOG de ultimo momento,2025-09-05 15:17:05.732507
+RH8901,1,Mantenimiento,2024-10-13 09:51:12.965268
+CD0001,2,Voluntariado,2025-03-19 11:07:45.819869
+CD0002,2,Capacitacion,2024-11-22 15:38:40.732226
+V56718,2,Revision de inventario trimestral,2024-10-30 15:27:58.157721
+V09973,1,Operacion de Emergencia,2024-06-22 15:26:40.011563
+V89890,1,Operacion de Emergencia,2024-10-22 17:17:19.550147
+DR8901,2,AOG de ultimo momento,2026-04-11 17:30:36.841419
+AV9029,4,Operacion de Emergencia,2024-06-08 12:08:49.952007
+DR8901,2,Operacion de Emergencia,2025-04-20 09:13:49.264538
+CD0002,3,Voluntariado,2024-08-27 10:05:18.107933
+RH8901,4,Operacion de Emergencia,2025-06-07 17:34:00.200218
+V56718,2,Requerimiento de proyectos,2025-01-19 15:47:39.640065
+V09973,3,Mantenimiento,2024-03-19 09:45:48.888638
+V83021,2,Capacitacion,2024-02-19 14:04:31.667070
+DR8901,1,Voluntariado,2025-07-02 14:11:30.200054
+CD0002,4,Operacion de Emergencia,2025-04-28 09:51:21.235490
+BE3019,2,AOG de ultimo momento,2024-05-07 14:13:41.357768
+CD0001,1,Capacitacion,2024-09-25 11:37:43.993652
+V83021,2,Operacion de Emergencia,2024-04-01 12:19:21.146009
+V09973,3,Revision de inventario trimestral,2024-05-10 11:04:57.962542
+V09973,3,Requerimiento del almacen,2025-01-02 10:05:41.308982
+CD0001,5,Capacitacion,2025-12-21 08:14:37.261737
+CD0001,1,Requerimiento del almacen,2024-07-15 14:09:41.788549
+CD0001,2,Reunion de proyectos,2026-02-21 09:04:03.204265
+DR8901,1,Reunion de proyectos,2024-05-17 17:50:36.389865
+AV9029,5,Reunion de proyectos,2025-08-30 18:00:10.483447
+CD0002,3,Revision de inventario trimestral,2025-12-21 10:59:41.081978
+V83021,3,Reunion de proyectos,2024-08-29 09:57:59.464109
+V89890,2,AOG de ultimo momento,2024-08-09 17:35:00.132193
+CD0001,2,Revision de inventario trimestral,2024-10-21 11:14:06.735811
+CD0002,3,Reunion de proyectos,2025-06-28 09:33:14.960894
+RH8901,5,Requerimiento de proyectos,2024-03-06 17:12:52.585919
+DR8901,4,Mantenimiento,2024-04-15 09:23:40.092447
+CD0001,1,Requerimiento del almacen,2026-01-06 12:01:50.493904
+BE3019,3,Reunion de proyectos,2024-09-24 11:56:31.582959
+DR8901,5,Operacion de Emergencia,2024-05-27 09:25:53.099423
+CD0002,1,Reunion de proyectos,2026-02-15 09:54:48.618386
+V09973,2,Reunion de proyectos,2025-11-10 18:17:44.762850
+CD0001,3,Voluntariado,2025-05-31 10:50:44.854978
+BE3019,1,Voluntariado,2025-12-29 16:10:40.519274
+V83021,1,Operacion de Emergencia,2024-03-18 17:47:21.474939
+V09973,2,Operacion de Emergencia,2024-05-16 12:56:01.742979
+CD0002,2,Requerimiento de proyectos,2024-08-27 16:54:20.667567
+CD0001,1,Voluntariado,2024-06-03 10:36:45.485065
+V09973,5,Requerimiento del almacen,2025-02-14 10:43:46.188726
+V09973,2,Requerimiento del almacen,2024-08-29 08:06:50.368364
+RH8901,5,Mantenimiento,2026-03-09 14:29:55.245571
+V89890,2,Revision de inventario trimestral,2026-01-03 13:37:34.958061
+DR8901,3,Capacitacion,2024-11-22 08:22:20.484672
+V89890,3,Requerimiento del almacen,2025-03-12 11:06:39.792977
+AV9029,2,Reunion de proyectos,2025-05-17 14:29:06.448438
+V56718,1,AOG de ultimo momento,2026-03-24 12:51:18.374142
+V56718,4,Requerimiento del almacen,2025-07-17 17:45:28.727111
+CD0002,1,AOG de ultimo momento,2025-08-20 11:14:47.247791
+BE3019,3,Operacion de Emergencia,2024-09-14 11:25:34.215352
+V89890,2,Requerimiento del almacen,2025-11-25 08:13:20.461345
+V56718,2,Voluntariado,2025-11-18 10:34:07.298916
+V09973,2,Mantenimiento,2024-11-06 15:14:01.424550
+RH8901,2,Capacitacion,2025-06-04 15:53:28.845986
+CD0002,1,AOG de ultimo momento,2025-10-13 15:24:43.660395
+V83021,3,Requerimiento del almacen,2024-10-23 18:53:22.535922
+V83021,4,Reunion de proyectos,2025-01-31 12:43:26.230985
+CD0001,2,Voluntariado,2026-04-15 17:00:58.486366
+V89890,1,Requerimiento de proyectos,2025-06-10 14:33:28.620019
+V56718,2,Requerimiento de proyectos,2025-08-21 08:39:37.465510
+CD0001,2,Capacitacion,2024-10-09 12:37:36.843496
+CD0002,5,Revision de inventario trimestral,2024-12-01 11:24:14.060330
+BE3019,1,Reunion de proyectos,2026-03-18 12:03:07.788961
+V09973,2,Voluntariado,2024-02-28 16:03:13.248753
+AV9029,1,Revision de inventario trimestral,2025-11-23 08:29:35.498030
+V09973,1,Requerimiento del almacen,2024-06-28 10:33:51.518526
+CD0002,3,Reunion de proyectos,2025-12-27 14:33:51.308053
+CD0002,5,Requerimiento de proyectos,2024-10-30 13:40:13.795189
+CD0001,5,Operacion de Emergencia,2026-01-17 16:15:43.261913
+AV9029,3,Voluntariado,2026-03-18 18:19:57.262419
+V89890,3,Requerimiento de proyectos,2024-08-02 10:41:31.986803
+V56718,2,AOG de ultimo momento,2024-01-05 12:11:26.670166
+RH8901,2,Capacitacion,2026-03-31 15:11:34.467539
+V56718,5,Requerimiento del almacen,2025-09-03 18:17:11.512461
+AV9029,3,Requerimiento del almacen,2026-02-15 11:29:14.018236
+V83021,3,AOG de ultimo momento,2025-06-21 12:26:27.060164
+V56718,1,Revision de inventario trimestral,2025-11-13 10:00:14.529319
+V56718,4,Operacion de Emergencia,2025-01-03 15:20:27.401844
+AV9029,2,Mantenimiento,2024-08-26 13:13:26.882796
+V09973,2,Reunion de proyectos,2026-01-24 15:02:34.457660
+V89890,2,Revision de inventario trimestral,2024-11-12 13:58:20.352931
+DR8901,5,Mantenimiento,2025-12-29 18:11:29.851564
+V56718,3,Requerimiento de proyectos,2024-10-09 15:14:28.161202
+CD0002,2,Operacion de Emergencia,2025-01-06 12:30:48.629835
+CD0001,1,Revision de inventario trimestral,2025-04-26 09:49:24.030592
+V09973,3,Revision de inventario trimestral,2025-12-31 14:38:40.390724
+V09973,3,Operacion de Emergencia,2024-01-01 15:00:32.587903
+V83021,5,Voluntariado,2024-01-02 17:24:11.070645
+AV9029,4,Operacion de Emergencia,2024-12-17 09:18:58.267498
+RH8901,2,Voluntariado,2024-12-19 11:00:50.054112
+V56718,2,Capacitacion,2025-08-27 12:11:44.542537
+V83021,3,Voluntariado,2025-10-10 16:27:55.917075
+DR8901,2,Operacion de Emergencia,2025-10-09 12:49:41.427507
+CD0002,5,Voluntariado,2024-04-17 13:10:44.248457
+CD0002,2,Mantenimiento,2024-06-14 18:25:23.537746
+V89890,5,Voluntariado,2025-06-28 11:45:57.275241
+V89890,2,Requerimiento del almacen,2024-12-15 11:42:52.296023
+CD0002,5,Mantenimiento,2025-02-22 13:00:26.140210
+V56718,2,Requerimiento del almacen,2024-11-24 16:07:20.606866
+V09973,2,Requerimiento del almacen,2026-04-23 08:08:24.949488
+AV9029,3,Requerimiento del almacen,2025-11-27 15:27:07.545279
+CD0002,5,Capacitacion,2025-10-04 12:13:21.345326
+DR8901,2,Capacitacion,2024-11-17 15:48:40.297885
+CD0002,2,Voluntariado,2025-02-11 11:04:19.540931
+V09973,1,Voluntariado,2025-03-18 18:37:27.656044
+V89890,2,Requerimiento de proyectos,2024-11-30 16:25:40.493113
+BE3019,2,Requerimiento del almacen,2024-04-25 13:47:36.223946
+DR8901,1,Operacion de Emergencia,2025-08-26 11:27:02.744792
+DR8901,5,Requerimiento de proyectos,2025-11-11 08:18:07.780094
+V09973,2,AOG de ultimo momento,2024-11-29 11:05:45.101362
+DR8901,4,Revision de inventario trimestral,2024-11-30 15:11:17.505348
+CD0002,3,Reunion de proyectos,2025-12-10 11:06:25.628226
+CD0002,5,Reunion de proyectos,2024-02-25 13:56:33.644874
+V09973,2,Mantenimiento,2025-05-17 08:00:58.944220
+V56718,3,Mantenimiento,2026-03-30 08:06:17.281683
+V83021,1,Requerimiento del almacen,2026-01-25 14:14:24.081290
+V83021,3,Revision de inventario trimestral,2024-07-07 12:27:34.250106
+V09973,2,Mantenimiento,2026-03-24 13:40:34.367269
+DR8901,3,Revision de inventario trimestral,2026-02-23 14:25:24.548007
+CD0002,3,Requerimiento de proyectos,2025-04-21 16:37:34.177312
+V09973,1,Reunion de proyectos,2025-02-22 11:58:18.805192
+V56718,2,Requerimiento del almacen,2025-05-12 12:18:41.119217
+V83021,1,Requerimiento de proyectos,2025-04-22 18:16:55.219300
+V56718,3,Mantenimiento,2024-08-26 18:29:41.200752
+RH8901,5,Mantenimiento,2024-02-14 13:59:53.697667
+CD0001,5,Revision de inventario trimestral,2024-09-06 13:00:00.732400
+V56718,3,Operacion de Emergencia,2024-06-01 08:17:04.873044
+CD0002,4,AOG de ultimo momento,2025-07-29 18:55:58.216908
+V83021,2,Mantenimiento,2025-04-08 10:05:44.396624
+AV9029,1,AOG de ultimo momento,2025-02-10 09:27:26.310758
+BE3019,3,Operacion de Emergencia,2026-03-15 11:48:29.180811
+DR8901,5,Capacitacion,2025-07-21 16:26:53.801497
+AV9029,1,Capacitacion,2024-10-06 12:43:38.120503
+AV9029,5,Requerimiento de proyectos,2025-04-19 14:53:34.583865
+CD0002,2,Operacion de Emergencia,2024-01-09 08:23:53.377058
+AV9029,4,Mantenimiento,2025-10-05 08:32:53.765757
+CD0002,5,Capacitacion,2024-05-05 16:54:44.060551
+V89890,2,Operacion de Emergencia,2025-10-18 16:48:47.118179
+CD0002,3,Voluntariado,2025-11-10 17:28:33.891699
+V89890,3,Revision de inventario trimestral,2025-12-30 16:04:03.157279
+V83021,2,Requerimiento del almacen,2024-03-18 18:56:20.029390
+DR8901,5,Requerimiento de proyectos,2024-12-26 10:52:40.482353
+CD0002,5,Voluntariado,2025-08-08 14:13:50.224332
+V09973,3,Requerimiento de proyectos,2024-04-26 18:34:43.329370
+CD0002,1,Voluntariado,2025-12-06 14:49:58.104427
+DR8901,1,Mantenimiento,2025-03-24 18:01:46.924004
+V09973,2,AOG de ultimo momento,2024-12-02 11:10:01.146514
+CD0001,3,Revision de inventario trimestral,2024-01-28 11:42:48.614826
+BE3019,2,Requerimiento de proyectos,2025-06-13 08:03:18.313766
+V89890,1,Reunion de proyectos,2025-01-31 12:32:57.872716
+CD0001,1,Requerimiento de proyectos,2026-04-08 10:51:25.738899
+BE3019,3,Capacitacion,2025-12-26 09:45:51.484543
+V89890,1,Requerimiento del almacen,2024-04-21 16:57:34.832441
+CD0002,5,Requerimiento del almacen,2024-06-10 11:46:45.624614
+RH8901,5,Requerimiento de proyectos,2026-03-31 17:05:53.444415
+RH8901,5,AOG de ultimo momento,2024-02-08 08:24:14.990286
+V56718,3,Mantenimiento,2025-04-23 15:45:23.672469
+BE3019,3,Revision de inventario trimestral,2024-03-29 10:48:02.775487
+DR8901,2,Mantenimiento,2024-03-02 10:42:55.770419
+V56718,1,Requerimiento del almacen,2024-04-28 13:32:53.401861
+V09973,4,Revision de inventario trimestral,2025-05-05 16:00:47.141748
+V56718,1,Revision de inventario trimestral,2025-02-24 09:47:37.193982
+V89890,1,Reunion de proyectos,2025-02-16 08:17:32.846419
+V56718,2,Reunion de proyectos,2025-11-29 10:32:19.036040
+V09973,3,Revision de inventario trimestral,2025-08-06 10:13:13.295819
+AV9029,2,AOG de ultimo momento,2024-11-17 12:54:42.588238
+CD0002,1,Revision de inventario trimestral,2024-11-22 18:27:27.223011
+BE3019,4,Requerimiento del almacen,2024-03-23 09:34:13.736673
+BE3019,4,Revision de inventario trimestral,2024-02-29 16:02:45.892120
+CD0002,3,Capacitacion,2025-11-04 11:29:04.585443
+AV9029,3,Mantenimiento,2024-02-17 17:26:44.539171
+V56718,3,Voluntariado,2024-06-04 14:42:57.959724
+CD0001,1,Requerimiento de proyectos,2024-02-13 16:31:21.836065
+CD0002,3,Mantenimiento,2025-03-03 17:56:20.359143
+DR8901,2,Revision de inventario trimestral,2025-08-19 10:17:44.265075
+CD0001,4,Revision de inventario trimestral,2026-01-01 08:30:21.138120
+V09973,2,Voluntariado,2024-12-07 16:20:53.597813
+V56718,5,Operacion de Emergencia,2025-07-20 12:11:15.890750
+BE3019,3,Operacion de Emergencia,2025-07-15 10:55:25.164997
+CD0001,5,AOG de ultimo momento,2024-01-03 17:31:22.149658
+BE3019,3,Operacion de Emergencia,2025-03-18 13:17:28.755532
+DR8901,5,Reunion de proyectos,2024-03-26 13:38:13.534781
+DR8901,3,Requerimiento de proyectos,2025-08-16 13:03:24.801020
+CD0001,3,Operacion de Emergencia,2024-03-21 16:29:08.772823
+DR8901,2,Voluntariado,2026-01-15 12:20:07.587603
+CD0001,4,Voluntariado,2025-01-01 10:28:13.637945
+AV9029,2,Reunion de proyectos,2024-07-08 17:31:23.218374
+V89890,2,Requerimiento del almacen,2026-04-08 17:16:34.572675
+CD0001,1,Capacitacion,2025-08-24 08:47:48.132001
+AV9029,3,Capacitacion,2024-04-10 09:01:27.493608
+RH8901,2,Requerimiento del almacen,2026-03-25 17:40:33.343268
+DR8901,2,Revision de inventario trimestral,2025-06-04 09:57:28.211036
+V89890,5,Reunion de proyectos,2025-10-20 09:50:31.302878
+V83021,3,Requerimiento del almacen,2026-02-28 17:53:02.865439
+BE3019,5,AOG de ultimo momento,2025-03-10 17:17:27.456822
+RH8901,1,Requerimiento de proyectos,2025-06-06 09:43:54.366096
+DR8901,3,Revision de inventario trimestral,2026-01-01 12:01:52.324404
+CD0002,3,Requerimiento del almacen,2026-02-24 09:42:38.518692
+V56718,3,Mantenimiento,2024-05-18 18:01:50.630593
+AV9029,2,Reunion de proyectos,2024-07-01 15:53:04.042939
+AV9029,3,Mantenimiento,2025-12-25 13:22:17.712582
+RH8901,2,Requerimiento del almacen,2026-01-25 16:39:46.864029
+V09973,2,Operacion de Emergencia,2025-02-19 15:38:48.138131
+V83021,1,Voluntariado,2025-07-22 11:01:02.052432
+BE3019,3,Revision de inventario trimestral,2024-01-19 16:41:08.946466
+BE3019,1,Revision de inventario trimestral,2026-04-06 09:58:32.996683
+V89890,4,Requerimiento del almacen,2025-08-30 17:43:50.020055
+AV9029,4,Requerimiento de proyectos,2024-06-09 18:27:54.606347
+V09973,3,AOG de ultimo momento,2024-11-29 17:56:00.184355
+V83021,1,Operacion de Emergencia,2025-06-08 10:38:06.168759
+RH8901,2,AOG de ultimo momento,2025-07-19 13:46:55.529018
+CD0002,5,Capacitacion,2025-02-12 14:14:30.140514
+AV9029,5,AOG de ultimo momento,2025-05-24 10:23:47.215695
+V09973,2,Voluntariado,2026-03-31 18:14:15.473839
+V89890,2,Requerimiento de proyectos,2024-03-14 16:44:49.043473
+V09973,3,Reunion de proyectos,2025-06-25 08:21:53.356393
+RH8901,2,Operacion de Emergencia,2024-08-10 14:08:43.829983
+V09973,2,Mantenimiento,2024-03-16 17:26:46.082358
+RH8901,4,Capacitacion,2024-06-25 11:24:07.037011
+V56718,2,Revision de inventario trimestral,2024-09-29 12:40:54.514719
+AV9029,1,Mantenimiento,2026-04-12 12:29:45.762089
+AV9029,2,Reunion de proyectos,2024-09-02 14:37:59.161853
+RH8901,2,Capacitacion,2025-03-09 13:22:21.779503
+CD0002,2,AOG de ultimo momento,2025-08-17 17:25:48.324591
+RH8901,1,Requerimiento del almacen,2025-08-20 09:19:52.888498
+BE3019,2,Revision de inventario trimestral,2025-10-23 10:20:11.265967
+V09973,4,Requerimiento del almacen,2024-03-15 09:39:33.577193
+V56718,3,Requerimiento de proyectos,2026-01-23 12:23:41.621362
+V56718,3,Reunion de proyectos,2026-03-06 08:45:15.816206
+AV9029,1,Operacion de Emergencia,2024-01-03 13:37:10.055509
+DR8901,5,Revision de inventario trimestral,2025-12-12 11:26:28.079596
