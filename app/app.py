@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
+
+from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from sqlalchemy import create_engine,text
 import plotly.express as px
+
+from pmdarima import auto_arima
 
 #configuracion de conexion a la base de datos
 DB_URL = "postgresql://postgres:Sanchabar1@localhost:5432/Horas_Extras"
@@ -93,6 +97,35 @@ with tab2:
     except:
         st.info("Aún no hay registros para mostrar.")
     
+# modelado predicttivo
+
+def predecir_sarima(df_historico, semanas_a_predecir=4):
+    # 1. Preparar la serie: Agrupamos por semana y tomamos la suma de horas
+    serie = df_historico.groupby(pd.Grouper(key='fecha_registro', freq='W'))['cantidad_horas'].sum()
+    
+    # 2. Entrenar el modelo SARIMA automático
+    # m=4 sugiere una estacionalidad mensual (4 semanas por mes)
+    modelo = auto_arima(serie, 
+                        seasonal=True, 
+                        m=52, 
+                        suppress_warnings=True, 
+                        stepwise=True)
+    
+    # 3. Generar el pronóstico
+    pronostico, conf_int = modelo.predict(n_periods=semanas_a_predecir, return_conf_int=True)
+    
+    # 4. Crear DataFrame para la gráfica
+    fechas_futuras = pd.date_range(serie.index[-1] + pd.Timedelta(weeks=1), periods=semanas_a_predecir, freq='W')
+    df_proyeccion = pd.DataFrame({
+        'fecha_registro': fechas_futuras,
+        'cantidad_horas': pronostico,
+        'Limite_Inferior': conf_int[:, 0],
+        'Limite_Superior': conf_int[:, 1],
+        'Estado': 'Predicción SARIMA'
+    })
+    
+    return df_proyeccion
+
 
 def mostrar_graficas(df):
         
@@ -139,6 +172,52 @@ def mostrar_graficas(df):
             )
             st.plotly_chart(fig_pie, width='stretch')
 
+        st.subheader("Pronóstico de Horas Extras (Próximas 4 semanas)")
+        
+
+        
+        df_proyeccion = predecir_sarima(df_filtrado)
+        # Creamos un dataframe histórico agrupado por semana SOLO para la gráfica
+        df_historico_semanal = (
+                df_filtrado.groupby(pd.Grouper(key="fecha_registro", freq="W"))[
+                    "cantidad_horas"
+                ].sum().reset_index()
+            )
+            # Graficamos el histórico SEMANAL (la línea azul ahora subirá hasta 100 o 150 horas)
+        fig_sarima = px.line(
+                df_historico_semanal,
+                x="fecha_registro",
+                y="cantidad_horas",
+                title="Pronóstico Avanzado SARIMA (Vista Semanal)",
+                line_shape="linear",  # Línea recta para evitar bucles raros
+                markers=True,
+            )
+        fig_sarima.update_traces(line=dict(color="#29b5e8"))
+
+            # Agregamos la línea roja del pronóstico (que ahora sí continuará la misma escala)
+        fig_sarima.add_scatter(
+                x=df_proyeccion["fecha_registro"],
+                y=df_proyeccion["cantidad_horas"],
+                name="Pronóstico",
+                mode="lines+markers",
+                line=dict(color="#FF4B4B", dash="dash", width=3),
+            )
+
+            # Agregamos las bandas de confianza de SARIMA
+        fig_sarima.add_scatter(
+                x=df_proyeccion["fecha_registro"].tolist()
+                + df_proyeccion["fecha_registro"].tolist()[::-1],
+                y=df_proyeccion["Limite_Superior"].tolist()
+                + df_proyeccion["Limite_Inferior"].tolist()[::-1],
+                fill="toself",
+                fillcolor="rgba(255, 75, 75, 0.15)",
+                line=dict(color="rgba(255,255,255,0)"),
+                name="Intervalo de Confianza",
+            )
+
+            # Mostrar en Streamlit dentro de tu columna correspondiente
+        st.plotly_chart(fig_sarima, use_container_width=True)
+
 with tab3:
     if not df_historial.empty:
         #FIltro de mes
@@ -172,6 +251,4 @@ with tab3:
         st.dataframe(df_filtrado)
     else:
         st.info("Aun no hay registros")
-
-
 
