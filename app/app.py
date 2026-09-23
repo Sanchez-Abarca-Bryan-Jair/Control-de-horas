@@ -8,7 +8,7 @@ import plotly.express as px
 from pmdarima import auto_arima
 
 #configuracion de conexion a la base de datos
-DB_URL = "postgresql://postgres:Sanchabar1@localhost:5432/Horas_Extras"
+DB_URL = st.secrets["DATABASE_URL"]
 
 @st.cache_resource
 def get_engine():
@@ -87,15 +87,28 @@ with tab2:
         JOIN empleados e ON h.empleado_num = e.numero_empleado
         ORDER BY h.fecha_registro DESC
     """
-    try:
-        df_historial = pd.read_sql(query_historial, engine)
-        st.dataframe(df_historial, width='stretch')
+    with tab2:
+        st.subheader("Historial de Horas Registradas")
         
-        # Botón para descargar a Excel/CSV
-        csv = df_historial.to_csv(index=False).encode('utf-8')
-        st.download_button("Descargar reporte CSV", csv, "reporte.csv", "text/csv")
-    except:
-        st.info("Aún no hay registros para mostrar.")
+        query_historial = """
+            SELECT e.nombre, h.cantidad_horas, h.justificacion, h.fecha_registro
+            FROM horas_extra h
+            JOIN empleados e ON h.empleado_num = e.numero_empleado
+            ORDER BY h.fecha_registro DESC
+        """
+        
+        # Declarar el DataFrame vacío antes de intentar la consulta
+        df_historial = pd.DataFrame()
+        
+        try:
+            df_historial = pd.read_sql(query_historial, engine)
+            st.dataframe(df_historial, width='stretch')
+            
+            # Botón para descargar a Excel/CSV
+            csv = df_historial.to_csv(index=False).encode('utf-8')
+            st.download_button("Descargar reporte CSV", csv, "reporte.csv", "text/csv")
+        except:
+            st.info("Aún no hay registros para mostrar.")
     
 # modelado predicttivo
 
