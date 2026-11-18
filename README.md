@@ -36,11 +36,17 @@ El sistema pasa de ser un software de registro descriptivo a una herramienta pre
 2. **Entrenamiento Automatizado:** La librería `pmdarima` evalúa dinámicamente las métricas de información (AIC) para seleccionar de manera óptima los parámetros autorregresivos, de integración y de media móvil $(p, d, q) \times (P, D, Q)_s$, aislando las tendencias del ruido operativo.
 
 ---
-<img width="1867" height="690" alt="image" src="https://github.com/user-attachments/assets/6e7ca29e-417e-495b-90d8-427da5d9647a" />
-<img width="1463" height="660" alt="image" src="https://github.com/user-attachments/assets/548b9edc-aba0-4465-99dd-d842373a44d6" />
-<img width="1535" height="882" alt="image" src="https://github.com/user-attachments/assets/ea231235-347b-4632-8f8a-735cac33fc41" />
-<img width="1542" height="902" alt="image" src="https://github.com/user-attachments/assets/2d9d41a7-8505-4d7a-aa5d-318a8cfdef6e" />
-<img width="1518" height="551" alt="image" src="https://github.com/user-attachments/assets/b7c44c43-ffd0-476c-8a0f-acbcd5a54700" />
+
+
+<img width="1864" height="875" alt="image" src="https://github.com/user-attachments/assets/39e69636-c38d-47a7-843a-e128f9024078" />
+<img width="1908" height="868" alt="image" src="https://github.com/user-attachments/assets/d54d9416-f828-4f41-9303-1a12da5a6ddb" />
+<img width="1839" height="906" alt="image" src="https://github.com/user-attachments/assets/d8464503-39ec-4f6e-888b-e94f56d80fce" />
+<img width="1468" height="592" alt="image" src="https://github.com/user-attachments/assets/209ad21a-bd50-4bb9-a209-d51a951be060" />
+<img width="1411" height="629" alt="image" src="https://github.com/user-attachments/assets/ef182d36-ad12-472e-82dc-9ecd678b418c" />
+<img width="1491" height="644" alt="image" src="https://github.com/user-attachments/assets/09f97f75-7e10-4a22-aec1-5fd590ca36b1" />
+
+
+
 
 
 
